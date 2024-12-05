@@ -503,7 +503,7 @@ leite integral, sobremesa, água engarrafada
 fruta de caroço, vinho branco, sacolas de compras
 açúcar,refrigerante,cerveja engarrafada
 frutas tropicais, frutas de caroço, pãezinhos, café, suco de frutas/vegetais, doces
-vegetais de raiz, queijo cremoso, queijo cremoso, sobremesa congelada, pão branco, água mineral, refrigerante, bebidas diversas, suco de frutas/vegetais, cerveja mineral
+vegetais de raiz, queijo cremoso, queijo cremoso, sobremesa congelada, pão branco, água mineral, refrigerante, bebidas diversas, suco de frutas/vegetais,cerveja
 refrigerante, bebidas diversas
 leite integral, coalhada
 frutas tropicais, outros vegetais, iogurte, água engarrafada, cosméticos masculinos
@@ -857,7 +857,7 @@ frutas vermelhas, leite integral, creme de leite batido/azedo, margarina, produt
 refeições congeladas, bebidas diversas
 creme batido/azedo
 carne bovina, vegetais de raiz, cerveja engarrafada, chocolate, sacolas de compras
-frango, carne de porco, outros vegetais, leite integral, creme de leite batido/azedo, leite UHT, ovos domésticos, pãezinhos, água mineral, refrigerante, suco de frutas/vegetais, cerveja mineral
+frango, carne de porco, outros vegetais, leite integral, creme de leite batido/azedo, leite UHT, ovos domésticos, pãezinhos, água mineral, refrigerante, suco de frutas/vegetais,cerveja
 frango, carne de porco, carne de hambúrguer, frutas de caroço, nozes/ameixas, vegetais de raiz, outros vegetais, leite integral, queijo cremoso, produtos de batata congelados, pão integral, produtos alimentícios instantâneos, refrigerante, suco de frutas/vegetais, sacolas de compras
 carne bovina, frutas tropicais, vegetais de raiz, ervas, outros vegetais, leite integral, iogurte, queijo duro, pãezinhos, pão integral, água engarrafada, cerveja engarrafada, salgadinhos, sacolas de compras
 frutas/vegetais embalados, vegetais em conserva
@@ -1216,7 +1216,7 @@ suco de fruta/vegetal
 carne bovina, frutas tropicais, leite integral, sorvete, comida para gatos
 salsicha, salsicha, pão de fígado, presunto, frango, carne bovina, frutas cítricas, frutas tropicais, vegetais de raiz, outros vegetais, leite integral, manteiga, coalhada, iogurte, creme de leite batido/azedo, bebidas, queijo macio, queijo duro, queijo cremoso, maionese, ovos domésticos, pãezinhos, produtos de pão, farinha, macarrão, margarina, gordura especial, açúcar, sopas, cuidados com a pele, artigos de higiene, velas
 salsicha, fruta de caroço, outros vegetais, iogurte, queijo cremoso, pãezinhos, pão branco, pastelaria, café, refrigerante, waffles, artigos de higiene
-carne bovina, carne de hambúrguer, outros vegetais, pãezinhos, pão integral, água mineral, refrigerante, cerveja mineral, cerveja enlatada
+carne bovina, carne de hambúrguer, outros vegetais, pãezinhos, pão integral, água mineral, refrigerante,cerveja, cerveja enlatada
 presunto, carne de porco, carne de hambúrguer, fruta de caroço, outros vegetais, leite integral, manteiga, coalhada, sobremesa, leitelho, creme batido/azedo, ovos domésticos, pão integral, produtos de pão, artigos de higiene
 sacolas de compras
 carne de porco, vegetais de raiz, outros vegetais, gordura especial, açúcar, fermento em pó, comida de gato, salgadinhos, waffles, sacolas de compras
@@ -1328,7 +1328,7 @@ carne de hambúrguer, fermento em pó, pastas doces
 goma de mascar, guardanapos, pratos
 água engarrafada, suco de frutas/vegetais, cerveja engarrafada, prosecco
 bebidas, pastelaria, produto de panificação longa vida, chocolate marshmallow
-leite integral, iogurte, refeições congeladas, açúcar, café, água mineral, suco de frutas/vegetais, cerveja mineral, salgadinhos
+leite integral, iogurte, refeições congeladas, açúcar, café, água mineral, suco de frutas/vegetais,cerveja, salgadinhos
 frutas cítricas, frutas de caroço, uvas, outros vegetais, sobremesa, leitelho, iogurte, ovos domésticos, farinha, óleo, açúcar, ketchup, detergente, limpador de louça
 frutas tropicais, leite integral, queijo duro, pãezinhos, comida de gato, água mineral, limpador de louça
 comida de gato,refrigerante
@@ -1710,7 +1710,7 @@ vegetais de raiz, pão branco, açúcar, licor
 salsicha, vegetais de raiz, leite integral, manteiga, bebidas diversas
 salsicha, vegetais de raiz, outros vegetais, leite integral, coalhada, iogurte, queijo duro, pão branco
 carne, carne de porco, cebola, molho para salada, ovos domésticos, pão branco, farinha, sal, cerveja engarrafada
-salsicha, leite integral, iogurte, massa folhada, pó para pudim, água mineral, refrigerante, cerveja mineral, cerveja enlatada, cosméticos masculinos, flores (sementes)
+salsicha, leite integral, iogurte, massa folhada, pó para pudim, água mineral, refrigerante,cerveja, cerveja enlatada, cosméticos masculinos, flores (sementes)
 fruta cítrica
 chocolate,doce
 café
@@ -1882,7 +1882,7 @@ pãezinhos, água mineral, refrigerante
 frutas tropicais, frutas de caroço, vegetais de raiz, outros vegetais, sobremesa, creme batido/azedo, queijo fatiado, massa folhada, sacolas de compras
 frutas tropicais, vegetais de raiz, outros vegetais, frutas/vegetais embalados, flores (sementes)
 Leite UHT, pastelaria, café, vinho tinto/blush, plantas em vasos
-vegetais de raiz, outros vegetais, ovos domésticos, açúcar, café instantâneo, água mineral, refrigerante, cerveja mineral, vinho tinto/blush, waffles, chocolate especial
+vegetais de raiz, outros vegetais, ovos domésticos, açúcar, café instantâneo, água mineral, refrigerante,cerveja, vinho tinto/blush, waffles, chocolate especial
 fruta de caroço, sobremesa, pãezinhos, pastelaria, bar especializado
 leite integral, pão integral, jornais
 sobremesa,zwieback
@@ -1913,7 +1913,7 @@ sorvete
 pão de fígado, carne de porco, frutas cítricas, frutas tropicais, vegetais de raiz, outros vegetais, leite integral, coalhada, sobremesa, iogurte, vegetais congelados, pão integral, pão semiacabado, óleo, comida para cachorro, suco de frutas/vegetais
 frutas cítricas, frutas tropicais, vegetais de raiz, ervas, outros vegetais, leite integral, iogurte, água engarrafada, cerveja engarrafada
 frango, frutas cítricas, iogurte, creme de leite batido/azedo, queijo cremoso, margarina, amaciante
-frutas cítricas, leite integral, queijo fatiado, pãezinhos, massas, produtos de pão, café, água mineral, refrigerante, cerveja mineral, cerveja enlatada, rum, waffles, chocolate
+frutas cítricas, leite integral, queijo fatiado, pãezinhos, massas, produtos de pão, café, água mineral, refrigerante,cerveja, cerveja enlatada, rum, waffles, chocolate
 água engarrafada, bebidas alcoólicas (aperitivo), bar especializado
 frutas de caroço, frutas vermelhas, vegetais de raiz, outros vegetais, leite integral, creme batido/azedo
 leite integral, coalhada, iogurte, vegetais congelados, margarina, ketchup, cereais, conservas de peixe, refrigerante, filme plástico/sacos
@@ -2008,7 +2008,7 @@ outros vegetais, pão integral, refrigerante
 outros vegetais, vegetais congelados, pastelaria, bar especializado
 frutas cítricas, frutas tropicais, leite integral, ovos nacionais, pastelaria, água engarrafada, salgadinhos
 pão branco
-frutas cítricas, frutas vermelhas, cebolas, outros vegetais, leite condensado, queijo macio, óleo, vegetais em conserva, vegetais especiais, café, água mineral, refrigerante, cerveja mineral, limpador de louça, cosméticos masculinos, filme plástico/sacos
+frutas cítricas, frutas vermelhas, cebolas, outros vegetais, leite condensado, queijo macio, óleo, vegetais em conserva, vegetais especiais, café, água mineral, refrigerante,cerveja, limpador de louça, cosméticos masculinos, filme plástico/sacos
 leite integral
 chocolate,plantas em vasos
 frutas cítricas, outros vegetais, refeições congeladas, arroz, cerveja em lata, salgadinhos
@@ -2321,7 +2321,7 @@ outros vegetais, iogurte, creme de leite batido/azedo, jornais
 salsicha, outros vegetais, pão integral, farinha, água engarrafada, doces
 cerveja enlatada
 carne de porco, ervas, outros vegetais, queijo processado, barra de bolo
-salsicha, leite integral, iogurte, queijo processado, sorvete, sobremesa congelada, pãezinhos, pão branco, pão integral, açúcar, café, água mineral, refrigerante, cerveja mineral, doces
+salsicha, leite integral, iogurte, queijo processado, sorvete, sobremesa congelada, pãezinhos, pão branco, pão integral, açúcar, café, água mineral, refrigerante,cerveja, doces
 chocolate,barra especial
 frutas cítricas, frutas tropicais, suco de frutas/vegetais
 gordura especial, açúcar, comida de gato
@@ -2822,7 +2822,7 @@ sobremesa
 foto/filme
 bolsas
 pãezinhos/pães, pão integral
-pão integral, água mineral, refrigerante, suco de frutas/vegetais, cerveja mineral, jornais, foto/filme
+pão integral, água mineral, refrigerante, suco de frutas/vegetais,cerveja, jornais, foto/filme
 carne bovina, vegetais de raiz, outros vegetais, margarina, salgadinhos, waffles, chocolate especial, toalhas de cozinha, jornais
 sobremesa, queijo macio, pãezinhos
 bebidas diversas
@@ -3056,7 +3056,7 @@ leite integral, refeições congeladas, chocolate especial
 salsicha,outros vegetais
 outros vegetais, plantas em vasos
 cebolas, produtos de rolo
-salsicha, vegetais de raiz, cebolas, ervas, outros vegetais, leite UHT, queijo duro, queijo cremoso, vegetais congelados, pãezinhos, água mineral, refrigerante, cerveja mineral, vinho tinto/blush
+salsicha, vegetais de raiz, cebolas, ervas, outros vegetais, leite UHT, queijo duro, queijo cremoso, vegetais congelados, pãezinhos, água mineral, refrigerante,cerveja, vinho tinto/blush
 salsicha, frutas tropicais, óleo, especiarias, vegetais em conserva, água engarrafada, bebidas diversas
 zwieback,produto de panificação de longa duração,cuidados dentários
 frango, fruta tropical, fruta de caroço, creme de leite batido/azedo, açúcar, fermento em pó, café instantâneo, refrigerante
@@ -3269,7 +3269,7 @@ carne, sobremesa, leite UHT, arroz, bar especial, guardanapos, velas
 frutas de caroço, vegetais de raiz, outros vegetais, sobremesa, ovos domésticos, margarina, cereais, refrigerante, velas
 frutas cítricas, queijo macio, ovos nacionais, pastelaria, óleo, fermento em pó, vegetais em conserva, comida para cães, café
 salsicha, carne, frango, fruta de caroço, leite integral, sobremesa, creme de leite batido/azedo, queijo processado, ovos nacionais, pãezinhos, pão branco, vegetais em conserva, refrigerante, suco de frutas/vegetais, salgadinho, produto de panificação longa vida, waffles, plantas em vasos
-salsicha, creme de leite batido/azedo, leite condensado, pãezinhos, água mineral, refrigerante, cerveja mineral, bar especializado
+salsicha, creme de leite batido/azedo, leite condensado, pãezinhos, água mineral, refrigerante,cerveja, bar especializado
 cerveja enlatada
 cerveja enlatada
 outros vegetais, produtos de batata congelada, café, salgadinhos, chocolate especial, sacolas de compras
@@ -3505,7 +3505,7 @@ creme batido/azedo, comida de cachorro, refrigerante, suco de frutas/vegetais, s
 vegetais de raiz, sacolas de compras
 carne de hambúrguer, frutas/vegetais embalados, leite integral, coalhada, iogurte, pastelaria
 carne, carne bovina, frutas cítricas, frutas de caroço, cerveja em lata, goma de mascar, sacolas de compras
-frutas tropicais, nozes/ameixas, leite integral, queijo cremoso, ovos domésticos, pãezinhos, pão branco, farinha, margarina, comida para gatos, água mineral, cerveja mineral, amaciante, artigos de higiene, guardanapos
+frutas tropicais, nozes/ameixas, leite integral, queijo cremoso, ovos domésticos, pãezinhos, pão branco, farinha, margarina, comida para gatos, água mineral,cerveja, amaciante, artigos de higiene, guardanapos
 salsicha, fruta de caroço, leite integral, manteiga, iogurte, limpador de louça
 salsicha,carne de hambúrguer,chocolate,detergente
 iogurte, pão integral
@@ -4071,7 +4071,7 @@ frutas vermelhas, margarina, café, bar especial, sacolas de compras
 pãezinhos/pãezinhos
 carne bovina, carne de hambúrguer, leite integral, coalhada, iogurte, queijo cremoso, temperos, vegetais em conserva, pastas doces, comida de gato, refrigerante, chocolate, limpador
 frango, peru, leite integral, manteiga, coalhada, queijo cremoso
-salsicha, carne, outros vegetais, iogurte, creme de leite batido/azedo, ovos nacionais, pão semi-pronto, café instantâneo, água mineral, refrigerante, cerveja mineral, jornais, sacolas de compras
+salsicha, carne, outros vegetais, iogurte, creme de leite batido/azedo, ovos nacionais, pão semi-pronto, café instantâneo, água mineral, refrigerante,cerveja, jornais, sacolas de compras
 pãezinhos/pãezinhos
 pãezinhos/pãezinhos, cerveja engarrafada
 salsicha, leite integral, pãezinhos
@@ -4150,7 +4150,7 @@ carne de porco,cuidados com animais de estimação,jornais
 ovos domésticos, pãezinhos/pãezinhos
 outros vegetais, pãezinhos, massas, cerveja engarrafada
 carne bovina, frutas cítricas, manteiga, suco de frutas/vegetais
-salsicha, fruta de caroço, óleo, comida de gato, água mineral, refrigerante, cerveja mineral, vinho branco
+salsicha, fruta de caroço, óleo, comida de gato, água mineral, refrigerante,cerveja, vinho branco
 limpador de pratos
 salsicha, frutas tropicais, vegetais de raiz, pãezinhos, mostarda, peixe enlatado, bebidas diversas, cerveja engarrafada, sacolas de compras
 salsicha, vegetais de raiz, creme de leite batido/azedo, pãezinhos, produtos de rolo, sal, sacolas de compras
@@ -4446,7 +4446,7 @@ carne de porco, frutas tropicais, vegetais de raiz, creme de leite batido/azedo,
 frutas de caroço, outros vegetais, iogurte, creme de leite batido/azedo, ovos nacionais, pão integral, vegetais especiais, café, chocolate especial, plantas em vasos
 chocolate especial
 frutas cítricas, frutas tropicais, frutas de caroço, outros vegetais, iogurte, leite UHT, queijo cremoso, suco de frutas/vegetais, artigos de higiene, plantas em vasos
-salsicha, peru, frutas cítricas, leite integral, coalhada, produtos de batata congelados, pãezinhos, pão branco, pastelaria, pão semi-acabado, vegetais em conserva, pastas doces, água mineral, refrigerante, suco de frutas/vegetais, cerveja mineral, vinho branco, prosecco, chocolate, doces
+salsicha, peru, frutas cítricas, leite integral, coalhada, produtos de batata congelados, pãezinhos, pão branco, pastelaria, pão semi-acabado, vegetais em conserva, pastas doces, água mineral, refrigerante, suco de frutas/vegetais,cerveja, vinho branco, prosecco, chocolate, doces
 salsicha, carne bovina, frutas tropicais, outros vegetais, manteiga, iogurte, leite UHT, leite condensado, queijo fatiado, sal, sopas, pastas doces, jornais
 vegetais de raiz, outros vegetais, leite integral, queijo fatiado, pãezinhos, comida de gato, sacolas de compras
 vegetais de raiz
@@ -4604,7 +4604,7 @@ Leite UHT, pão integral, jornais
 frutas cítricas,frutas de caroço,legumes em conserva,água engarrafada,jornais
 jornais
 refrigerante, cerveja em lata, vinho tinto/blush
-fruta tropical, sobremesa, água mineral, refrigerante, cerveja mineral, vinho branco, guardanapos
+fruta tropical, sobremesa, água mineral, refrigerante,cerveja, vinho branco, guardanapos
 água engarrafada, cerveja engarrafada
 cerveja em lata, goma de mascar
 cebolas, outros vegetais, leite integral, iogurte, ovos domésticos, pastelaria, pratos, sacos de compras
@@ -5316,7 +5316,7 @@ coalhada, queijo cremoso, frutas congeladas, margarina, bebidas de cacau, refrig
 carne de porco, carne bovina, outros vegetais, leite integral, iogurte, margarina, suco de frutas/vegetais
 carne de hambúrguer
 carne de hambúrguer, cebola, sorvete, bebidas diversas, sacolas de compras
-vegetais de raiz, cebola, sobremesa, maionese, pão integral, sal, peixe enlatado, água mineral, suco de frutas/vegetais, cerveja mineral, pipoca
+vegetais de raiz, cebola, sobremesa, maionese, pão integral, sal, peixe enlatado, água mineral, suco de frutas/vegetais,cerveja, pipoca
 manteiga, queijo cremoso, sorvete, pãezinhos, refrigerante, produto de panificação longa vida, chocolate, marshmallow de chocolate
 Leite UHT, açúcar, café, cerveja em lata
 leite integral, comida de gato
@@ -5533,7 +5533,7 @@ pãezinhos/pãezinhos
 frutas cítricas,outros vegetais
 iogurte, bebidas, ovos nacionais, pãezinhos, pastelaria, refrigerante, produtos de panificação de longa duração, chocolate, marshmallow de chocolate, guardanapos
 frango, carne bovina, outros vegetais
-frutas tropicais, chantilly/creme de leite, água mineral, refrigerante, cerveja mineral, plantas em vasos
+frutas tropicais, chantilly/creme de leite, água mineral, refrigerante,cerveja, plantas em vasos
 frutas tropicais, leite integral, molhos, pastas doces, chocolate, jornais
 outros vegetais, queijo duro, jornais
 margarina, bebidas diversas, cerveja engarrafada
@@ -5569,7 +5569,7 @@ queijo duro,velas
 salsicha, leite integral, pão branco, margarina, cerveja engarrafada, detergente, plantas em vasos
 salsicha, carne, leite integral, creme de leite batido/azedo, leite UHT, queijo duro, café, waffles, guardanapos
 água engarrafada, jornais
-salsicha, fruta de caroço, leite integral, pão branco, sal, macarrão, óleo, açúcar, água mineral, refrigerante, cerveja mineral
+salsicha, fruta de caroço, leite integral, pão branco, sal, macarrão, óleo, açúcar, água mineral, refrigerante,cerveja
 leite integral
 frutas cítricas, ovos nacionais, geleia
 carne de porco
@@ -5626,7 +5626,7 @@ carne, fruta de caroço, outros vegetais, pão integral, produtos de pão, refri
 cerveja enlatada
 leite integral, manteiga, pãezinhos
 requeijão,água mineral,vinho branco
-frutas cítricas, frutas tropicais, cebolas, leite UHT, gordura especial, café instantâneo, água mineral, refrigerante, suco de frutas/vegetais, cerveja mineral, salgadinhos, jornais
+frutas cítricas, frutas tropicais, cebolas, leite UHT, gordura especial, café instantâneo, água mineral, refrigerante, suco de frutas/vegetais,cerveja, salgadinhos, jornais
 chocolate de cozinha
 leite integral,água engarrafada
 açúcar
@@ -5821,7 +5821,7 @@ refrigerante
 margarina,refrigerante
 salsicha, carne bovina, fruta de caroço, vegetais de raiz, outros vegetais, coalhada, iogurte, margarina, açúcar
 açúcar
-salsicha, fruta tropical, leitelho, queijo cremoso, petiscos, água mineral, refrigerante, cerveja mineral
+salsicha, fruta tropical, leitelho, queijo cremoso, petiscos, água mineral, refrigerante,cerveja
 frango, vegetais de raiz, outros vegetais, creme de leite batido/azedo, margarina, molhos, cerveja em lata, sacolas de compras
 ovos domésticos, pastelaria
 leite condensado,pastelaria,produtos sanitários femininos,sacolinhas de compras
@@ -6134,7 +6134,7 @@ creme batido/azedo, vegetais congelados, jornais
 iogurte, queijo fatiado, refeições congeladas
 frango,outros vegetais
 foto/filme
-salsicha, frutas cítricas, frutas tropicais, frutas de caroço, uvas, água mineral, refrigerante, cerveja mineral, bar de bolos
+salsicha, frutas cítricas, frutas tropicais, frutas de caroço, uvas, água mineral, refrigerante,cerveja, bar de bolos
 frutas tropicais,mostarda,molhos
 leite integral,margarina,refrigerante,guardanapos,foto/filme
 manteiga, coalhada
@@ -6287,7 +6287,7 @@ barra de especialidade
 água engarrafada
 frango,outros vegetais,óleo
 leite integral, jornais
-salsicha, carne, frutas tropicais, outros vegetais, leite integral, iogurte, pãezinhos, água mineral, refrigerante, cerveja mineral, jornais
+salsicha, carne, frutas tropicais, outros vegetais, leite integral, iogurte, pãezinhos, água mineral, refrigerante,cerveja, jornais
 cerveja enlatada
 pãezinhos/pãezinhos
 água engarrafada, refrigerante, bebidas diversas, solo para flores/fertilizante
@@ -7096,7 +7096,7 @@ outros vegetais, leite integral, pãezinhos, farinha
 carne de hambúrguer, pãezinhos, velas
 peixe, vegetais de raiz, pãezinhos, produtos de rolo, guardanapos
 salsicha, frango, frutas cítricas, vegetais de raiz, cebolas, outros vegetais, manteiga, queijo processado, queijo para barrar, molho para salada, vegetais congelados, peixe congelado, pãezinhos, farinha, adoçante artificial, refrigerante, doce, limpador
-iogurte, queijo cremoso, queijo cremoso, pãezinhos, água mineral, refrigerante, suco de frutas/vegetais, cerveja mineral, chocolate, jornais
+iogurte, queijo cremoso, queijo cremoso, pãezinhos, água mineral, refrigerante, suco de frutas/vegetais,cerveja, chocolate, jornais
 frutas tropicais, iogurte, café, filme plástico/sacos, jornais
 carne,vegetais de raiz,pastelaria
 água mineral,refrigerante,lanche salgado
@@ -7481,7 +7481,7 @@ salsicha, rolinhos/pãezinhos, refrigerante, bebida alcoólica (aperitivo), bar 
 salsicha,refrigerante
 frutas tropicais, cebolas, leite integral, queijo cremoso, queijo especial, água mineral, refrigerante
 salsicha, frutas vermelhas, leite integral, arroz, café, filme plástico/sacos
-salsicha, frutas cítricas, frutas vermelhas, outros vegetais, leite integral, manteiga, creme de leite batido/azedo, pão integral, sopas, café, água mineral, cerveja mineral, waffles
+salsicha, frutas cítricas, frutas vermelhas, outros vegetais, leite integral, manteiga, creme de leite batido/azedo, pão integral, sopas, café, água mineral,cerveja, waffles
 frutas tropicais, queijo duro, vegetais congelados, ovos domésticos, pão semi-acabado
 creme batido/azedo
 carne bovina,leite integral,pãezinhos,café
@@ -8148,7 +8148,7 @@ produtos acabados,outros vegetais,cuidados com animais de estimação,bebidas di
 comida de cachorro
 presunto, frutas tropicais, frutas de caroço, outros vegetais, leite UHT, queijo fatiado, ovos nacionais, pão branco, suco de frutas/vegetais
 cerveja engarrafada, licor, vinho tinto/blush, waffles, doces, guardanapos, sacolas de compras
-sorvete, ovos nacionais, pãezinhos, água mineral, refrigerante, cerveja mineral, lanche de nozes, sacolas de compras
+sorvete, ovos nacionais, pãezinhos, água mineral, refrigerante,cerveja, lanche de nozes, sacolas de compras
 café,xarope
 carne bovina, queijo cremoso, pãezinhos, vinho branco, sacolas de compras
 peixe congelado
@@ -8156,7 +8156,7 @@ cerveja engarrafada
 cebola, suco de frutas/vegetais
 frango,cerveja engarrafada
 carne bovina, outros vegetais, leite integral, sorvete
-carne, outros vegetais, sobremesa, iogurte, ovos domésticos, pãezinhos, óleo, cuidados com animais de estimação, café, água mineral, suco de frutas/vegetais, cerveja mineral
+carne, outros vegetais, sobremesa, iogurte, ovos domésticos, pãezinhos, óleo, cuidados com animais de estimação, café, água mineral, suco de frutas/vegetais,cerveja
 goma de mascar, guardanapos
 pãezinhos/pãezinhos, pratos
 salsicha, outros vegetais, iogurte, pãezinhos, pão branco
@@ -8442,7 +8442,7 @@ fruta cítrica
 pãezinhos/pãezinhos, refrigerante
 pãezinhos, refrigerante, detergente
 frango, outros vegetais, pãezinhos, sacolas de compras
-salsicha, carne de hambúrguer, leite integral, café, água mineral, cerveja mineral, waffles, chocolate
+salsicha, carne de hambúrguer, leite integral, café, água mineral,cerveja, waffles, chocolate
 pãezinhos/pãezinhos
 frutas cítricas, leite integral, iogurte, creme de leite batido/azedo, comida para gatos, chocolate especial, produtos sanitários femininos
 refrigerante
@@ -8500,7 +8500,7 @@ refrigerante, cerveja em lata, jornais
 refrigerante, bebidas diversas, waffles, sacolas de compras
 uvas, frutas vermelhas, leitelho, iogurte, plantas em vasos
 chocolate especial
-fruta de caroço, sorvete, água mineral, refrigerante, suco de fruta/vegetal, cerveja mineral
+fruta de caroço, sorvete, água mineral, refrigerante, suco de fruta/vegetal,cerveja
 goma de mascar, chocolate, chocolate especial
 salsicha, frango, frutas cítricas, vegetais de raiz, frutas/vegetais embalados, ovos domésticos, pão integral, adoçante artificial, água engarrafada, waffles, guardanapos
 salsicha, vegetais de raiz, cebola, leite integral, coalhada, leitelho, refeições congeladas, óleo, refrigerante, suco de frutas/vegetais, sacolas de compras
@@ -8588,7 +8588,7 @@ pãezinhos/pãezinhos
 vegetais enlatados
 cerveja enlatada
 leite integral,fermento em pó,água engarrafada,jornais
-frango, uvas, leite integral, iogurte, pãezinhos, água mineral, suco de frutas/vegetais, cerveja mineral, chocolate, guardanapos
+frango, uvas, leite integral, iogurte, pãezinhos, água mineral, suco de frutas/vegetais,cerveja, chocolate, guardanapos
 leite integral, sobremesa
 frutas tropicais, leite integral, queijo cremoso, queijo processado, pãezinhos, sacolas de compras
 frutas cítricas, coalhada, queijo fatiado, água mineral, guardanapos
@@ -8980,7 +8980,7 @@ frutas cítricas, leite integral, iogurte, queijo fatiado, ovos domésticos, veg
 presunto, iogurte, pastelaria, café, waffles, chocolate, produtos de higiene feminina
 refrigerante
 salsicha,leite integral,iogurte,guardanapos
-frutas cítricas, leite integral, água mineral, refrigerante, suco de frutas/vegetais, cerveja mineral
+frutas cítricas, leite integral, água mineral, refrigerante, suco de frutas/vegetais,cerveja
 peixe congelado, pão integral, cerveja em lata, rum, jornais
 leite integral
 presunto,carne de porco,sacos de compras
@@ -9230,7 +9230,7 @@ vegetais de raiz,vinho espumante
 salsicha, carne, frango, carne de porco, outros vegetais, queijo fatiado, pão integral, jornais, sacolas de compras
 frango,jornais
 presunto, carne de porco, frutas cítricas, frutas tropicais, vegetais de raiz, outros vegetais, iogurte, peixe congelado, suco de frutas/vegetais, produtos de panificação de longa duração, produtos sanitários femininos
-frutas tropicais, leitelho, leite UHT, leite condensado, pão integral, açúcar, café, água mineral, refrigerante, suco de frutas/vegetais, xarope, cerveja mineral, produtos de limpeza doméstica, sacolas de compras
+frutas tropicais, leitelho, leite UHT, leite condensado, pão integral, açúcar, café, água mineral, refrigerante, suco de frutas/vegetais, xarope,cerveja, produtos de limpeza doméstica, sacolas de compras
 pãezinhos/pãezinhos
 outros vegetais
 salsicha, presunto, porco, carne bovina, carne de hambúrguer, frutas tropicais, frutas de caroço, frutas vermelhas, outros vegetais, coalhada, sobremesa, iogurte, queijo fatiado, queijo cremoso, pão semiacabado, vegetais enlatados, água engarrafada, bebidas diversas, xarope, waffles, chocolate, produtos sazonais
@@ -9507,7 +9507,7 @@ frutas congeladas
 carne bovina
 vegetais de raiz,sorvete
 leite integral, pãezinhos/pãezinhos
-salsicha, frango, cebola, outros vegetais, frutas/vegetais embalados, manteiga, iogurte, bebidas, queijo duro, vegetais congelados, ovos domésticos, pão branco, água mineral, refrigerante, suco de frutas/vegetais, cerveja mineral, cerveja enlatada, vinho espumante, waffles, chocolate, doces, limpador, cuidados dentários
+salsicha, frango, cebola, outros vegetais, frutas/vegetais embalados, manteiga, iogurte, bebidas, queijo duro, vegetais congelados, ovos domésticos, pão branco, água mineral, refrigerante, suco de frutas/vegetais,cerveja, cerveja enlatada, vinho espumante, waffles, chocolate, doces, limpador, cuidados dentários
 leite integral, petiscos, pãezinhos, cerveja engarrafada, guardanapos
 manteiga,leitelho,ovos domésticos
 frutas cítricas, outros vegetais, pão integral
