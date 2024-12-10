@@ -1,4 +1,4 @@
-﻿frutas,pão,margarina,sopas prontas,,,,,,,,,,,,,,,
+﻿frutas,pão,margarina,sopas prontas,,,,,,,,,,,,,,,,,,,,,,,,,,,,
 frutas,iogurte,café
 leite
 frutas,iogurte,queijo,pastas de carne
@@ -22,7 +22,7 @@ vegetais
 leite,massa folhada
 leite
 frutas,queijo,queijo,detergente,jornais
-frutas,vegetais,sobremesa congelada,pão,farinha,doces,salgadinhos,waffles,docess,limpador de banheiro
+frutas,vegetais,sobremesa congelada,pão,farinha,doces,salgadinhos,waffles,doces,limpador de banheiro
 água,cerveja
 iogurte
 salsicha,pão,refrigerante,chocolate
@@ -39,7 +39,7 @@ cerveja
 vegetais,leite,sobremesa
 frutas,zwieback,jornais
 salsicha,pão,refrigerante,cerveja,bar especializado,sacolas de compras
-frutas,vegetais,leite,iogurte,ovos domésticos,pão,pastelaria,açúcar,cereais,café,refrigerante,waffles,docess
+frutas,vegetais,leite,iogurte,ovos domésticos,pão,pastelaria,açúcar,cereais,café,refrigerante,waffles,doces
 frutas,iogurte
 cerveja
 leite,iogurte,queijo,queijo,pão,água,refrigerante,jornais
@@ -105,7 +105,7 @@ salsicha,leite,iogurte,café,suco,cerveja,amaciante,guardanapos,foto,filme,sacol
 refrigerante
 pão,suco
 carne bovina,frutas,vegetais,pão,detergente
-leite,creme de leite,pão,refrigerante,waffles,docess,filme plástico,sacos
+leite,creme de leite,pão,refrigerante,waffles,doces,filme plástico,sacos
 queijo
 frutas,
 salsicha,vegetais,pão,óleo,vegetais,cerveja,goma de mascar,pratos
@@ -182,7 +182,7 @@ presunto,leite,pão
 vegetais,sorvete
 vegetais,água
 refrigerante,cerveja,vinho,prosecco
-ervas,docess
+ervas,doces
 salsicha,presunto,frutas,vegetais,leite,manteiga,coalhada,iogurte,creme de leite,queijo,queijo,queijo,refeições congeladas,peixe,ovos domésticos,pão,açúcar,cereais,suco,cerveja,waffles
 pão,cerveja
 coalhada,queijo,pão,zwieback,bolo,chocolate,sacolas de compras
@@ -238,7 +238,7 @@ vegetais,bebidas,produtos alimentícios instantâneos,vegetais,detergente
 vegetais,ervas,vegetais,leite,queijo,pão
 leite,creme de leite,pão,margarina
 frutas,leite,coalhada,sobremesa,iogurte,creme de leite,sobremesa congelada,pão,sal,açúcar,cereais,vegetais,peixe,cuidados com a pele,artigos de higiene,guardanapos
-frutas,coalhada,pastelaria,margarina,açúcar,docess,jornais
+frutas,coalhada,pastelaria,margarina,açúcar,doces,jornais
 vegetais,leite,água,refrigerante,bebidas diversas,cerveja,vinho,guardanapos
 frutas,leite,pão,bolo
 salsicha,óleo,artigos de higiene,guardanapos
@@ -303,7 +303,7 @@ salsicha,carne bovina,vegetais,coalhada,sobremesa,iogurte,queijo,pão,mostarda,v
 cerveja
 cerveja
 cebola,refrigerante,goma de mascar,chocolate,jornais
-frutas,vegetais,queijo,pão,docess
+frutas,vegetais,queijo,pão,doces
 água,vinho
 carne bovina,pão,pastelaria,massa,sabão
 salsicha,frango,frutas,vegetais,leite,iogurte,doces,limpador abrasivo,limpador
@@ -326,7 +326,7 @@ salsicha,vegetais,iogurte,pão,água
 frutas,vegetais,coalhada,leite,queijo,pão,margarina,bebidas diversas,chocolate,detergente
 margarina,artigos de higiene
 frutas,iogurte,pão,refrigerante,sacolas de compras
-presunto,vegetais,creme de leite,queijo,pão,refrigerante,bebidas diversas,chocolate,docess
+presunto,vegetais,creme de leite,queijo,pão,refrigerante,bebidas diversas,chocolate,doces
 hambúrguer,pão,salgadinho
 iogurte,maionese,pão,refrigerante,guardanapos
 refrigerante,chocolate
@@ -352,7 +352,7 @@ carne bovina,hambúrguer,frutas
 frutas,creme de leite,cereais,waffles,sacolas de compras
 cerveja
 nata,cerveja,vinho
-vegetais,ovos domésticos,margarina,marshmallow de chocolate,docess
+vegetais,ovos domésticos,margarina,marshmallow de chocolate,doces
 leite,refrigerante
 carne bovina
 legumes
@@ -381,7 +381,7 @@ leite,iogurte
 jornais
 café
 cerveja,licor
-cebola,manteiga,creme de leite,queijo,vegetais,macarrão,gordura,xarope,docess,guardanapos,filme plástico,sacos
+cebola,manteiga,creme de leite,queijo,vegetais,macarrão,gordura,xarope,doces,guardanapos,filme plástico,sacos
 hambúrguer,queijo,refeições congeladas,macarrão,comida de cachorro,salgadinhos,sacolas de compras
 salsicha,pão,vegetais,queijo,pastelaria,sabão,sacolas de compras
 queijo,pastelaria,guardanapos
@@ -502,14 +502,14 @@ vinho,detergente
 leite,sobremesa,água
 frutas,vinho,sacolas de compras
 açúcar,refrigerante,cerveja
-frutas,pão,café,suco,docess
+frutas,pão,café,suco,doces
 vegetais,queijo,queijo,sobremesa congelada,pão,água,refrigerante,bebidas diversas,suco,cerveja
 refrigerante,bebidas diversas
 leite,coalhada
 frutas,vegetais,iogurte,água,cosméticos masculinos
 pão,pão
 pão,açúcar,artigos de higiene
-frutas,vegetais,café,água,vinho,docess,produtos de limpeza doméstica,sacolas de compras
+frutas,vegetais,café,água,vinho,doces,produtos de limpeza doméstica,sacolas de compras
 ovos domésticos
 café,detergente,artigos de higiene,foto,filme
 refrigerante
@@ -595,7 +595,7 @@ pão,refrigerante
 vegetais,cerveja,vinho
 frutas,vegetais,leite,manteiga,água,álcool isopropílico,artigos de higiene,guardanapos
 leite,queijo,pão,pastelaria,refrigerante
-salsicha,frutas,vegetais,leite,iogurte,pão,massa folhada,docess
+salsicha,frutas,vegetais,leite,iogurte,pão,massa folhada,doces
 café,pão
 presunto,pão,vinho
 cerveja
@@ -631,7 +631,7 @@ hambúrguer,leite,óleo,ketchup,sopas,produtos alimentícios instantâneos,peixe
 carne bovina,frutas,vegetais,leite,queijo,queijo,pão,margarina,água,suco
 carne bovina,frutas,leite,ovos nacionais,pão,massas,pão,chá,suco
 vegetais,leite,detergente
-frutas,uvas,vegetais,vegetais,suco,bebidas alcoólicas,rum,bebidas alcoólicas,docess,filme plástico,sacos
+frutas,uvas,vegetais,vegetais,suco,bebidas alcoólicas,rum,bebidas alcoólicas,doces,filme plástico,sacos
 iogurte,água
 frutas,vegetais,creme de leite,pão,peixe,pão
 salsicha,vegetais,jornais
@@ -639,7 +639,7 @@ carne bovina,vegetais,leite,pão,pastelaria,salgadinhos,limpador abrasivo,sacola
 sacolas de compras
 cerveja
 pão,cerveja
-vegetais,pão,pastas de carne bovina,água,refrigerante,bebidas diversas,waffles,chocolate,docess
+vegetais,pão,pastas de carne bovina,água,refrigerante,bebidas diversas,waffles,chocolate,doces
 hambúrguer,vegetais,iogurte,pão,água
 hambúrguer,frutas,vegetais,pão,produtos alimentícios instantâneos,peixe,água,refrigerante,suco,guardanapos
 salsicha,ovos nacionais,refrigerante,goma de mascar,sacolas de compras
@@ -707,7 +707,7 @@ pão
 frango,cebola,vegetais,leite,pão,vinho,vinho
 frutas,cebolas,leite,manteiga,pratos
 salsicha,peru,vegetais,iogurte,pão,óleo,artigos de higiene,sacolas de compras
-salsicha,vegetais,leite,coalhada,queijo,refrigerante,docess,jornais
+salsicha,vegetais,leite,coalhada,queijo,refrigerante,doces,jornais
 salsicha,frutas,pastelaria,margarina,sopas prontas,café,sacolas de compras
 leite,sobremesa congelada,suco,descalcificador,jornais
 pão,jornais
@@ -779,7 +779,7 @@ vegetais,leite,margarina,cerveja
 coalhada
 salsicha,carne bovina,vegetais
 cerveja,bebida alcoólica,goma de mascar
-presunto,frango,frutas,cebola,leite,coalhada,iogurte,vegetais,pão,margarina,refrigerante,bebida alcoólica,bolo,docess,cuidados com a pele
+presunto,frango,frutas,cebola,leite,coalhada,iogurte,vegetais,pão,margarina,refrigerante,bebida alcoólica,bolo,doces,cuidados com a pele
 frutas,vegetais,leite,sobremesa,iogurte,leite,margarina,água,pão
 carne bovina,pão,refrigerante,bar especializado
 leite,sobremesa
@@ -792,7 +792,7 @@ pastelaria
 salsicha,hambúrguer,leite,ovos nacionais,pão,pão,margarina,água,flores
 frango,uvas,leite,creme de leite,maionese
 sobremesa congelada,pão
-frutas,uvas,iogurte,pão,margarina,frutas enlatadas,água,refrigerante,bebidas diversas,docess,produtos de higiene feminina,sacolas de compras
+frutas,uvas,iogurte,pão,margarina,frutas enlatadas,água,refrigerante,bebidas diversas,doces,produtos de higiene feminina,sacolas de compras
 salsicha,carne de porco,carne bovina,frutas,vegetais,leite,manteiga,pão,comida de gato,água,jornais
 vegetais,cebolas,vegetais,frutas,vegetais,leite,creme de leite,vegetais,pão,massas,sopas,fermento em pó,refrigerante,detergente
 vegetais,leite,iogurte,pão
@@ -977,7 +977,7 @@ iogurte,pão,cerveja,vinho
 cerveja,licor,vinho
 uvas
 carne de porco,vegetais,refrigerante
-salsicha,frutas,vegetais,leite,iogurte,creme de leite,queijo,vegetais,ovos domésticos,pastelaria,margarina,sopas,conservas de peixe,chocolate,docess,guardanapos
+salsicha,frutas,vegetais,leite,iogurte,creme de leite,queijo,vegetais,ovos domésticos,pastelaria,margarina,sopas,conservas de peixe,chocolate,doces,guardanapos
 salsicha,frango,carne de porco,frutas,vegetais,iogurte,leite,maionese,pão,pastelaria,farinha,mostarda,café,bebidas de cacau,suco,salgadinhos,produtos de panificação longa vida,chocolate,produtos sazonais
 adoçante,refrigerante,foto,filme
 salsicha,cebola,manteiga,queijo,pão,café,cerveja
@@ -987,7 +987,7 @@ leite,jornais
 ovos domésticos,artigos de higiene,foto,filme,solo para flores,fertilizante
 frutas,vegetais,sobremesa,maionese,óleo,refrigerante,waffles,chocolate,flores,sacolas de compras
 frango,vegetais,creme de leite,vegetais,água,pão
-carne de porco,leite,coalhada,iogurte,creme de leite,queijo,ovos nacionais,pão,açúcar,fermento em pó,café,bebidas de cacau,salgadinhos,waffles,docess,guardanapos
+carne de porco,leite,coalhada,iogurte,creme de leite,queijo,ovos nacionais,pão,açúcar,fermento em pó,café,bebidas de cacau,salgadinhos,waffles,doces,guardanapos
 frutas,vegetais,leite,coalhada,iogurte,creme de leite,queijo,pastelaria,vinagre,óleo,café,pão,detergente,limpador,guardanapos,jornais
 lâmpadas
 queijo,margarina,chá
@@ -1029,7 +1029,7 @@ leite,água
 cebolas
 carne bovina,água,bebidas diversas,chocolate,sacolas de compras
 carne de porco,leite,pão,cerveja
-cerveja,chocolate,docess,sacolas de compras
+cerveja,chocolate,doces,sacolas de compras
 iogurte,margarina
 iogurte,creme de leite,farinha,margarina,açúcar,fermento em pó,comida de gato,refrigerante,suco,chocolate,artigos de higiene,guardanapos,jornais
 frutas,coalhada,sobremesa,iogurte,chocolate,chocolate,jornais,sacolas de compras
@@ -1048,7 +1048,7 @@ salsicha,frutas,vegetais,leite,iogurte,creme de leite,queijo,vegetais,pastelaria
 vegetais
 vegetais s
 frutas,leite,pão,bebidas diversas,cerveja
-uvas,iogurte,leite,queijo,pão,suco,docess,cuidados dentários,jornais,sacolas de compras
+uvas,iogurte,leite,queijo,pão,suco,doces,cuidados dentários,jornais,sacolas de compras
 leite,pastelaria
 salsicha,leite,iogurte,ovos nacionais,pão,margarina,suco,cerveja,sacolas de compras
 sobremesa,água,refrigerante
@@ -1075,13 +1075,13 @@ vegetais,leite,iogurte,queijo,cereais,cerveja,pão
 salsicha,presunto,vegetais,ovos nacionais,pão,massa folhada,pão,chocolate,marshmallow de chocolate
 peixe 
 salsicha,vegetais,leite,queijo,pão,fermento em pó,vegetais,rum
-água,refrigerante,suco,pão,goma de mascar,docess
+água,refrigerante,suco,pão,goma de mascar,doces
 queijo
 água,refrigerante
 água,refrigerante,goma de mascar
 frango,carne bovina,leite,coalhada,pão,pastelaria,molhos,vegetais,água,refrigerante,salgadinhos,waffles,bar especializado,guardanapos,lâmpadas
 salsicha,frutas,sobremesa,pastelaria,farinha,margarina,açúcar,adoçante,molhos,rum,cuidados com a pele
-frango,frutas,vegetais,leite,iogurte,queijo,queijo,maionese,vegetais,massas,pão,arroz,margarina,açúcar,vegetais,água,suco,docess,cuidados com a pele,guardanapos
+frango,frutas,vegetais,leite,iogurte,queijo,queijo,maionese,vegetais,massas,pão,arroz,margarina,açúcar,vegetais,água,suco,doces,cuidados com a pele,guardanapos
 frango,frutas,leite,leite condensado,queijo,queijo,ovos nacionais,pão,pastelaria,pão,refrigerante,pão,waffles,chocolate,guardanapos,pratos,toalhas,sacolas de compras
 manteiga,pão,massa folhada,água,cerveja,waffles
 frutas,vegetais,sobremesa,iogurte,leite,pão
@@ -1128,7 +1128,7 @@ frutas,vegetais,leite,coalhada,creme de leite,cerveja
 pão,óleo,açúcar,refrigerante,cerveja
 sacolas de compras
 uvas,pão,cerveja,vinho
-presunto,frutas,queijo,queijo,pão,docess
+presunto,frutas,queijo,queijo,pão,doces
 vegetais,cuidados com a pele
 sorvete,bebidas diversas,cerveja,guardanapos,sacolas de compras
 frutas,vegetais,água,cerveja,guardanapos
@@ -1165,7 +1165,7 @@ goma de mascar
 vegetais,queijo,refrigerante,cerveja
 carne de porco,vegetais
 peru,leite,leite,suco
-frutas,vegetais,refrigerantes,docess,sacolas de compras
+frutas,vegetais,refrigerantes,doces,sacolas de compras
 salsicha,vegetais,macarrão,óleo,margarina,café,xarope,cerveja,guardanapos,lâmpadas,sacolas de compras
 salsicha,carne bovina,vegetais,pão,peixe,água,cerveja,bebida alcoólica,sacolas de compras
 carne de porco,frutas,vegetais,sobremesa,iogurte,pão,farinha,arroz,café,água,refrigerante,suco,cerveja,salgadinho
@@ -1177,7 +1177,7 @@ plantas em vasos
 água,plantas em vasos
 prosecco,artigos de higiene,plantas em vasos
 leite,refrigerante,limpador de louça,guardanapos
-água,refrigerante,goma de mascar,chocolate,docess
+água,refrigerante,goma de mascar,chocolate,doces
 pão,peixe,cerveja
 chocolate
 carne bovina,vegetais,leite,iogurte,creme de leite,queijo,pão,suco,cerveja,chocolate
@@ -1209,7 +1209,7 @@ frutas,iogurte,creme de leite,refrigerante,utensílios
 frutas,leite,ovos nacionais,pastelaria,artigos de higiene
 vegetais,iogurte,queijo
 carne de porco,leite,açúcar,refrigerante,pão,chocolate
-frango,carne de porco,frutas,vegetais,leite,petiscos,peixe,pão,margarina,fermento em pó,refrigerante,cerveja,vinho,waffles,chocolate,docess
+frango,carne de porco,frutas,vegetais,leite,petiscos,peixe,pão,margarina,fermento em pó,refrigerante,cerveja,vinho,waffles,chocolate,doces
 vegetais,leite,iogurte,pão,plantas em vasos
 frutas,bolo,cosméticos para bebês,sacolas de compras
 suco
@@ -1252,15 +1252,15 @@ pão
 água
 salsicha,frutas,leite,iogurte,queijo,pastelaria,margarina,produtos de comida instantânea,café,pipoca,produtos de limpeza doméstica
 batata congelada,água,refrigerante
-salsicha,leite,creme de leite,requeijão,ovos nacionais,margarina,fermento em pó,comida de gato,água,cerveja,docess,guardanapos
-salsicha,vegetais,leite,manteiga,creme de leite,queijo,açúcar,fermento em pó,geleia,café,água,refrigerante,suco,salgadinho,pão,docess,guardanapos
+salsicha,leite,creme de leite,requeijão,ovos nacionais,margarina,fermento em pó,comida de gato,água,cerveja,doces,guardanapos
+salsicha,vegetais,leite,manteiga,creme de leite,queijo,açúcar,fermento em pó,geleia,café,água,refrigerante,suco,salgadinho,pão,doces,guardanapos
 frutas,sobremesas,doces,suco
 cerveja
 cerveja
 pão,pães,pão
 frutas,leite,café
 iogurte,amaciante
-peru,porco,carne bovina,hambúrguer,frutas,vegetais,cebolas,vegetais,leite,manteiga,leite,iogurte,pão,óleo,suco,waffles,docess
+peru,porco,carne bovina,hambúrguer,frutas,vegetais,cebolas,vegetais,leite,manteiga,leite,iogurte,pão,óleo,suco,waffles,doces
 refrigerante,amaciante
 cerveja
 cerveja
@@ -1270,7 +1270,7 @@ Produtos alimentícios instantâneos
 salsicha,frutas,leite,iogurte,pastelaria,açúcar,água,refrigerante,suco
 óleo,cuidados dentários,jornais
 frango,hambúrguer,vegetais,pão,sacolas de compras
-carne bovina,ovos domésticos,pão,farinha,docess
+carne bovina,ovos domésticos,pão,farinha,doces
 sobremesa,leite,água,refrigerante,cerveja,goma de mascar,amaciante,sacolas de compras
 carne de porco,frutas,vegetais,ovos domésticos,margarina,cerveja
 coalhada,creme de leite,farinha,fermento em pó,jornais
@@ -1349,7 +1349,7 @@ vegetais,cebolas,leite,água,pratos
 frutas,batata congelada
 salsicha,frango,manteiga,sobremesa,leite,sorvete,pastelaria,óleo,margarina,refrigerante,salgadinho salgado,chocolate,marshmallow de chocolate,detergente,artigos de higiene,guardanapos,plantas em vasos
 sorvete,salgadinho,waffles
-salsicha,presunto,carne bovina,frango,frutas,vegetais,leite,manteiga,iogurte,queijo,vegetais,ovos domésticos,pão,pão,pão,docess,jornais
+salsicha,presunto,carne bovina,frango,frutas,vegetais,leite,manteiga,iogurte,queijo,vegetais,ovos domésticos,pão,pão,pão,doces,jornais
 vegetais,suco,pão,plantas em vasos
 presunto,frutas,uvas,cebolas,vegetais,iogurte,creme de leite,queijo,queijo,vegetais,pão,pastelaria,pão,óleo,comida de gato,água,suco,detergente,produtos de limpeza doméstica
 café
@@ -1366,7 +1366,7 @@ frutas,bebidas diversas,bebidas alcoólicas,filme plástico,sacos
 presunto,ervas,vegetais,coalhada,iogurte,queijo,lâmpadas
 cerveja
 salsicha,frutas,vegetais,pão,margarina,waffles
-frango,frutas,docess,sacolas de compras
+frango,frutas,doces,sacolas de compras
 salsicha,cerveja
 cerveja
 vegetais,queijo,café,pratos
@@ -1397,7 +1397,7 @@ coalhada,geléia,sacolas de compras
 salsicha,ovos domésticos,café,refrigerante
 ervas
 comida de cachorro,refrigerante,suco,cerveja
-frutas,vegetais,leite,docess,água,refrigerantes,bebidas diversas,goma de mascar,bar especializado,artigos de higiene,plantas em vasos,sacolas de compras
+frutas,vegetais,leite,doces,água,refrigerantes,bebidas diversas,goma de mascar,bar especializado,artigos de higiene,plantas em vasos,sacolas de compras
 salsicha,carne de porco,gordura,chocolate
 carne bovina,frutas,queijo,pão,waffles,chocolate,chocolate,spray de cabelo,sacolas de compras
 óleo
@@ -1411,7 +1411,7 @@ leite,água,refrigerante,cerveja
 vegetais,leite,pão,conhaque,detergente,limpador de louça,produtos sanitários femininos,guardanapos,sacolas de compras
 açúcar
 queijo,pratos
-vegetais,bebidas diversas,pão,chocolate,docess,sacolas de compras
+vegetais,bebidas diversas,pão,chocolate,doces,sacolas de compras
 frutas,detergente
 nata
 iogurte
@@ -1436,7 +1436,7 @@ sorvete,refrigerante,cerveja,chocolate,marshmallow
 salsicha,leite,pão,refrigerante
 detergente
 óleo,produtos sanitários femininos,filme plástico,sacos
-frutas,uvas,sorvetes,batata congelada,pão,docess,refrigerantes,bebidas diversas,salgadinhos,pão,goma de mascar,bar,guardanapos,foto,filme
+frutas,uvas,sorvetes,batata congelada,pão,doces,refrigerantes,bebidas diversas,salgadinhos,pão,goma de mascar,bar,guardanapos,foto,filme
 foto,filme
 leite,café
 carne bovina,cerveja,sacolas de compras
@@ -1563,10 +1563,10 @@ leite
 pão
 frutas,água,goma de mascar
 frutas,ervas,manteiga,ovos domésticos,óleo,água,cerveja
-leite,iogurte,creme de leite,queijo,docess
+leite,iogurte,creme de leite,queijo,doces
 frutas,vegetais,iogurte,produtos de rolo,margarina,açúcar,água,guardanapos,produtos de limpeza doméstica
 refrigerante
-salsicha,iogurte,bebidas,pão,chocolate,docess
+salsicha,iogurte,bebidas,pão,chocolate,doces
 salsicha,creme,queijo,cerveja
 guardanapos
 iogurte
@@ -1742,7 +1742,7 @@ cerveja
 cerveja
 vegetais,creme de leite,massa folhada,vinho
 refrigerante
-pão,refrigerante,chocolate,docess,jornais
+pão,refrigerante,chocolate,doces,jornais
 bolsas
 pão
 sobremesa,sobremesa congelada
@@ -1767,7 +1767,7 @@ frutas,leite
 vegetais,pão
 sobremesa,queijo,queijo,pão
 salsicha
-frutas,vegetais,manteiga,docess
+frutas,vegetais,manteiga,doces
 frutas,leite,guardanapos
 frutas,coalhada,refrigerante,cerveja,amaciante,artigos de higiene
 frutas,vegetais,leite,coalhada,iogurte,vegetais,ovos domésticos
@@ -1799,7 +1799,7 @@ peru,frutas,vegetais,ervas,leite,manteiga,vegetais,molhos,vegetais,água,álcool
 iogurte,chocolate,produtos sazonais
 creme de leite,fermento em pó
 frutas,água,pipoca,sacolas de compras
-salsicha,maionese,bebidas diversas,docess
+salsicha,maionese,bebidas diversas,doces
 vegetais,queijo,pão
 jornais
 vinho
@@ -1830,7 +1830,7 @@ frutas,guardanapos
 leite
 leite,sobremesa,pão,pastelaria,jornais
 hambúrguer,frutas,manteiga,vegetais,massas,doces,café
-salsicha,coalhada,creme de leite,vegetais,geleia,pão,docess
+salsicha,coalhada,creme de leite,vegetais,geleia,pão,doces
 refrigerante,cerveja
 creme de leite,arroz,pipoca
 leite,manteiga,iogurte,refeições congeladas,água,cerveja,cerveja,chocolate,flores
@@ -1866,7 +1866,7 @@ presunto,carne de porco,leite,doces,sacolas de compras
 pão,suco
 frutas,pão
 salsicha,frutas,leite,coalhada,leite,nata,pão,amaciante,produtos de limpeza doméstica
-frutas,leite,queijo,vegetais,pão,chocolate,docess,plantas em vasos
+frutas,leite,queijo,vegetais,pão,chocolate,doces,plantas em vasos
 refrigerante
 leite,pastelaria
 frutas
@@ -1918,7 +1918,7 @@ frutas,leite,queijo,pão,massas,pão,café,água,refrigerante,cerveja,cerveja,ru
 frutas,vegetais,leite,nata
 leite,coalhada,iogurte,vegetais,margarina,ketchup,cereais,conservas de peixe,refrigerante,filme plástico,sacos
 hambúrguer,leite,coalhada,sobremesa
-peru,hambúrguer,vegetais,leite,iogurte,queijo,cereais,pão,chocolate,docess,artigos de higiene
+peru,hambúrguer,vegetais,leite,iogurte,queijo,cereais,pão,chocolate,doces,artigos de higiene
 presunto,carne bovina,frutas,vegetais,leite,sobremesa,iogurte,creme de leite,queijo,batata,pão,refrigerante,produtos de panificação longa vida,chocolate
 frutas,vegetais,vegetais s
 salsicha,vegetais,sobremesa,ovos domésticos,pastelaria,guardanapos
@@ -1994,7 +1994,7 @@ salsicha,carne de porco,peixe,frutas,creme de leite,refrigerante,suco,limpador d
 sorvete,água
 frutas,vegetais,leite,sobremesa,iogurte,creme de leite,queijo,pão,frutas enlatadas,suco
 cerveja,sacolas de compras
-carne de porco,frutas,leite,sobremesa,creme de leite,suco,docess
+carne de porco,frutas,leite,sobremesa,creme de leite,suco,doces
 sorvete,refrigerante,chocolate
 coalhada,iogurte,waffles
 salsicha,sobremesa,refrigerante
@@ -2017,7 +2017,7 @@ salsicha,frango,carne bovina,frutas,vegetais,cebola,iogurte,queijo,maionese,marg
 vegetais,refeições congeladas,pão,produtos para lanches,artigos de higiene
 salsicha,frango,frutas,vegetais,sobremesa,iogurte,vegetais,refeições congeladas,pão,pão,ketchup,temperos,sopas prontas,refrigerante,cerveja,pipoca
 frutas,vinagre,água,sacolinhas de compras
-frutas,iogurte,ovos nacionais,pão,refrigerante,docess
+frutas,iogurte,ovos nacionais,pão,refrigerante,doces
 carne de porco,vegetais,creme de leite
 leite,iogurte,queijo,óleo,vegetais,comida de gato,bebidas diversas,produtos de panificação longa vida,chocolate,chocolate,pratos
 mostarda,refrigerante,suco
@@ -2038,7 +2038,7 @@ frango,carne bovina,frutas,leite,queijo,ovos nacionais,pão,cerveja,guardanapos,
 farinha
 frutas,ovos domésticos
 leite,pastelaria,suco,cerveja,chocolate
-salsicha,leite,água,chocolate,docess
+salsicha,leite,água,chocolate,doces
 cerveja
 leite,queijo,óleo,água,suco,plantas em vasos
 cerveja
@@ -2098,7 +2098,7 @@ iogurte,sorvete,pão,doces,sacolas de compras
 leite,maionese,pão,vegetais,refrigerantes,artigos de higiene,sacolas de compras
 frutas,vegetais,pão,bebidas diversas,suco
 frutas,leite,água
-leite,leite,creme de leite,sorvete,pão,chocolate,docess,limpador de louça
+leite,leite,creme de leite,sorvete,pão,chocolate,doces,limpador de louça
 cerveja
 pão,açúcar,doces,goma de mascar,jornais
 salsicha,pão,refrigerante
@@ -2225,7 +2225,7 @@ vegetais,leite,iogurte,geleia,água,refrigerante,cerveja,chocolate,artigos de hi
 nata,pastelaria,peixe,refrigerante,waffles,detergente,guardanapos
 leite,queijo,café
 leite,creme de leite,queijo,ovos domésticos,comida para cachorro,refrigerante,goma de mascar
-frutas,leite,manteiga,pastelaria,pão,café,docess,jornais,sacolas de compras
+frutas,leite,manteiga,pastelaria,pão,café,doces,jornais,sacolas de compras
 vegetais,creme de leite
 carne de porco,vegetais,queijo,vegetais,batata,mostarda,água,suco,guardanapos,sacolas de compras
 frutas,cebola,leite
@@ -2255,11 +2255,11 @@ vegetais
 iogurte,pão
 frutas,vegetais,leite,suco,pão,sacolas de compras
 leite
-coalhada,cerveja,waffles,docess
+coalhada,cerveja,waffles,doces
 leite,manteiga,queijo,vinho
 água
 refrigerante,chocolate,chocolate
-salsicha,presunto,frutas,vegetais,manteiga,queijo,requeijão,ovos domésticos,pão,pão,margarina,refrigerante,docess
+salsicha,presunto,frutas,vegetais,manteiga,queijo,requeijão,ovos domésticos,pão,pão,margarina,refrigerante,doces
 óleo,suco
 hambúrguer,leite,creme de leite
 cebolas,iogurte,vegetais
@@ -2279,8 +2279,8 @@ molhos,chocolate
 pão,pastelaria,massa
 frutas,leite,leite,bebidas,refrigerantes,sacolas de compras
 queijo,sorvete,pão,chocolate
-bebidas,queijo,pão,açúcar,bebidas diversas,docess
-coalhada,nata,pó para pudim,docess,flores,sacolas de compras
+bebidas,queijo,pão,açúcar,bebidas diversas,doces
+coalhada,nata,pó para pudim,doces,flores,sacolas de compras
 sorvete,chocolate,marshmallow
 queijo,refrigerante
 detergente,descalcificador,artigos de higiene
@@ -2307,10 +2307,10 @@ leite,iogurte,queijo,pão,água
 frutas,leite,leite,iogurte,fermento em pó
 leite
 frutas,farinha,macarrão,margarina,açúcar,fermento em pó,refrigerante
-carne de porco,vegetais,leite,peixe,café,bar,docess
+carne de porco,vegetais,leite,peixe,café,bar,doces
 bebidas
 leite,artigos de higiene,película aderente,sacos,jornais
-carne bovina,leite,vegetais,doces,docess,limpador de louça,cuidados dentários,foto,filme
+carne bovina,leite,vegetais,doces,doces,limpador de louça,cuidados dentários,foto,filme
 vegetais
 leite,iogurte,pão,água
 salsicha,frutas,vegetais,leite,velas
@@ -2318,10 +2318,10 @@ iogurte,pão,pastelaria,refrigerante
 cerveja
 cerveja
 vegetais,iogurte,creme de leite,jornais
-salsicha,vegetais,pão,farinha,água,docess
+salsicha,vegetais,pão,farinha,água,doces
 cerveja
 carne de porco,ervas,vegetais,queijo,bolo
-salsicha,leite,iogurte,queijo,sorvete,sobremesa congelada,pão,pão,pão,açúcar,café,água,refrigerante,cerveja,docess
+salsicha,leite,iogurte,queijo,sorvete,sobremesa congelada,pão,pão,pão,açúcar,café,água,refrigerante,cerveja,doces
 chocolate,chocolate
 frutas,suco
 gordura,açúcar,comida de gato
@@ -2365,7 +2365,7 @@ carne de porco,hambúrguer
 frutas,vegetais,leite,creme de leite
 leite,iogurte,creme de leite,açúcar
 presunto,pão
-frutas,vegetais,queijo,vegetais,água,suco,salgadinhos,docess
+frutas,vegetais,queijo,vegetais,água,suco,salgadinhos,doces
 frutas,vegetais
 pão,cerveja
 leite,leite,ovos domésticos
@@ -2463,7 +2463,7 @@ frutas,vegetais,leite,creme de leite,queijo,pão,farinha,suco,guardanapos
 salsicha,leite,pão,pastelaria,refrigerante,chocolate
 refrigerante
 frutas,iogurte,água,cerveja,goma de mascar,guardanapos
-frutas,creme de leite,pão,docess,jornais
+frutas,creme de leite,pão,doces,jornais
 leite
 vegetais,cebolas,vegetais,leite,creme de leite,queijo,refeições congeladas,pão,pão,massas,vegetais,doces
 salsicha,creme de leite,pão,fermento em pó
@@ -2530,7 +2530,7 @@ carne bovina,vegetais
 salsicha,frutas,pão,pastelaria,margarina
 leite,pão,massa folhada
 cerveja
-salsicha,frutas,vegetais,leite,coalhada,iogurte,creme de leite,ovos nacionais,açúcar,água,salgadinhos,docess,artigos de higiene
+salsicha,frutas,vegetais,leite,coalhada,iogurte,creme de leite,ovos nacionais,açúcar,água,salgadinhos,doces,artigos de higiene
 pão
 carne de porco,manteiga,queijo,queijo
 frutas,vegetais,leite,manteiga,coalhada,pão,margarina,fermento em pó,água,cerveja,cerveja,chocolate,guardanapos
@@ -2538,7 +2538,7 @@ cerveja
 carne de porco,frutas,vegetais,cebolas,vegetais,sacolas de compras
 água,vinho,jornais
 leite,ovos nacionais,pão,foto,filme
-coalhada,sobremesa,refrigerante,suco,docess,artigos de higiene,sacolas de compras
+coalhada,sobremesa,refrigerante,suco,doces,artigos de higiene,sacolas de compras
 frutas,leite,pão,pastelaria,sal
 frutas,vegetais,leite,iogurte,pão,pastelaria
 frango,carne bovina,frutas,vegetais,cebolas,vegetais,peixe,água,bebidas diversas,suco,guardanapos
@@ -2609,7 +2609,7 @@ refeições congeladas,pão,cerveja
 leite
 carne de porco,açúcar,jornais
 hambúrguer,frutas,leite,queijo,chocolate
-vegetais,pastelaria,docess,guardanapos
+vegetais,pastelaria,doces,guardanapos
 ovos domésticos,pão
 hambúrguer,queijo,vegetais,refrigerante
 frutas,vegetais,leite,coalhada,peixe,ovos domésticos,pão
@@ -2707,7 +2707,7 @@ frutas,cerveja
 cerveja
 carne de porco,vegetais,refrigerante
 cerveja
-carne bovina,vegetais,leite,sobremesa,iogurte,pão,margarina,geleia,refrigerante,bebida alcoólica,waffles,marshmallow de chocolate,docess,limpador de banheiro,lâmpadas
+carne bovina,vegetais,leite,sobremesa,iogurte,pão,margarina,geleia,refrigerante,bebida alcoólica,waffles,marshmallow de chocolate,doces,limpador de banheiro,lâmpadas
 pão,bolo,massas
 cuidados dentários,cosméticos masculinos
 salsicha,peru,carne bovina,frutas,ervas,farinha,margarina,produtos alimentícios instantâneos,água
@@ -2719,7 +2719,7 @@ frango,porco,carne bovina,hambúrguer,frutas,manteiga,ovos domésticos,pão,pão
 sobremesa,bebidas,sorvete,refrigerante
 pão,água,cerveja
 salsicha,pão,bebidas diversas,suco,cerveja,salgadinhos,sacolas de compras
-frutas,refrigerantes,bebidas diversas,cerveja,chocolate,chocolate,docess,sacolas de compras
+frutas,refrigerantes,bebidas diversas,cerveja,chocolate,chocolate,doces,sacolas de compras
 leite,vegetais
 leite,coalhada,margarina
 salsicha,iogurte,creme
@@ -2763,7 +2763,7 @@ frutas,nozes,ameixas,leite,nata,waffles,jornais
 vegetais,leite,creme de leite,leite condensado,pão,sacolas de compras
 vegetais,pão,jornais
 foto,filme
-carne de porco,frutas,vegetais,creme de leite,leite,vegetais,pão,óleo,água,docess
+carne de porco,frutas,vegetais,creme de leite,leite,vegetais,pão,óleo,água,doces
 pastelaria,açúcar,mostarda,goma de mascar,sacolas de compras
 salsicha
 pão,refrigerante
@@ -2772,7 +2772,7 @@ foto,filme,sacolas de compras
 foto,filme
 leite,manteiga,coalhada,vegetais,água,cerveja,detergente,plantas em vasos,sacolas de compras
 waffles
-salsicha,queijo,queijo,docess,sacolas de compras
+salsicha,queijo,queijo,doces,sacolas de compras
 hambúrguer,vegetais,margarina,açúcar,fermento em pó,doces,suco,goma de mascar,chocolate
 cerveja
 vegetais,queijo
@@ -2863,7 +2863,7 @@ lanche salgado
 vegetais,refrigerante,bar especial
 carne bovina,frutas,vegetais,leite,sobremesa,iogurte,waffles,detergente
 peixe,pão,plantas em vasos
-leite,queijo,pão,docess,spray de cabelo
+leite,queijo,pão,doces,spray de cabelo
 detergente
 hambúrguer,foto,filme
 leite,sobremesa,iogurte,queijo,pão,refrigerante,produtos sazonais
@@ -2872,7 +2872,7 @@ refeições congeladas,cerveja
 frutas,iogurte
 iogurte,vegetais,descalcificador
 pão
-leite,refeições congeladas,massas,docess
+leite,refeições congeladas,massas,doces
 presunto,refeições congeladas,pão,peixe,café,café
 refeições congeladas
 sorvete,frutas enlatadas,cerveja,sacolas de compras
@@ -2901,7 +2901,7 @@ vegetais,leite
 carne de porco
 frutas,sal,produtos orgânicos,comida de gato,refrigerante,cerveja,produtos sanitários femininos
 salsicha,vegetais,cerveja,sacolas de compras
-vegetais,leite,queijo,docess
+vegetais,leite,queijo,doces
 frutas,batata congelada,refrigerante
 água,bebidas diversas,cerveja
 margarina,café,café,refrigerante,cerveja
@@ -2923,9 +2923,9 @@ frutas
 iogurte,bebidas diversas
 cerveja
 cerveja
-queijo,pão,docess,sacolas de compras
+queijo,pão,doces,sacolas de compras
 água
-salsicha,hambúrguer,frutas,vegetais,sobremesa,iogurte,refeições congeladas,batata congelada,pão,suco,produtos de panificação longa vida,chocolate,docess,produtos de limpeza doméstica
+salsicha,hambúrguer,frutas,vegetais,sobremesa,iogurte,refeições congeladas,batata congelada,pão,suco,produtos de panificação longa vida,chocolate,doces,produtos de limpeza doméstica
 refrigerante,cerveja,licor,vinho
 jornais
 leite,bebidas
@@ -3009,7 +3009,7 @@ frutas,sobremesa,leite condensado,margarina
 vegetais,pão
 frutas,vegetais,leite,creme de leite,queijo,vegetais,pão,farinha,margarina,fermento em pó,waffles,artigos de higiene
 leite,cream cheese,salgadinho,doces
-refrigerante,suco,bolo,docess,velas
+refrigerante,suco,bolo,doces,velas
 vegetais
 frutas
 cerveja
@@ -3021,15 +3021,15 @@ vegetais,iogurte,pão,farinha
 leite
 vegetais,leite,produtos de rolo
 frutas,vegetais,sorvete,pão,pastelaria,farinha,vegetais,café,refrigerante,bebidas diversas,suco
-manteiga,coalhada,sobremesa,queijo,cerveja,docess,sacolas de compras
+manteiga,coalhada,sobremesa,queijo,cerveja,doces,sacolas de compras
 solo para flores,fertilizante
 massas,refrigerantes,salgadinhos,bolo
-vegetais,sobremesa,docess,limpador abrasivo,pratos,filme plástico,sacos,velas
+vegetais,sobremesa,doces,limpador abrasivo,pratos,filme plástico,sacos,velas
 vegetais,coalhada,iogurte,leite,pão,água,jornais,sacolas de compras
 carne bovina
 vegetais
 leite,vegetais,café
-carne de porco,vegetais,leite,manteiga,creme de leite,queijo,ovos nacionais,pão,pão,pastelaria,geleia,refrigerante,waffles,docess,guardanapos
+carne de porco,vegetais,leite,manteiga,creme de leite,queijo,ovos nacionais,pão,pão,pastelaria,geleia,refrigerante,waffles,doces,guardanapos
 carne bovina,vegetais
 chocolate
 lanche salgado
@@ -3049,7 +3049,7 @@ fermento em pó
 frutas,vegetais,leite,peixe,pastelaria,peixe,cuidados dentários,artigos de higiene,plantas em vasos
 salsicha,pão,margarina,refrigerante
 frango,coalhada,leite,queijo,margarina,café,salgadinho,waffles,pratos
-frango,vegetais,leite,ovos domésticos,óleo,margarina,açúcar,café,cerveja,bar,docess
+frango,vegetais,leite,ovos domésticos,óleo,margarina,açúcar,café,cerveja,bar,doces
 salsicha,carne bovina,leite,pastelaria
 carne bovina,vegetais,margarina,refrigerante
 leite,refeições congeladas,chocolate
@@ -3145,7 +3145,7 @@ frango,manteiga,leite,queijo,cerveja,salgadinho,waffles,goma de mascar
 salsicha,pão,bebidas diversas,suco
 leite
 carne bovina,vegetais,pão,jornais
-leite,pão,chocolate,docess
+leite,pão,chocolate,doces
 carne bovina,vegetais,leite,manteiga,iogurte,refrigerante,limpador abrasivo,jornais
 presunto,carne bovina,frutas,vegetais,leite,manteiga,iogurte,queijo,queijo,pão,margarina,chocolate
 salsicha,carne bovina,vegetais,pão
@@ -3187,7 +3187,7 @@ frango,carne bovina,vegetais,leite,queijo,cuidados com animais de estimação,jo
 salsicha,pão
 cerveja
 cerveja
-salsicha,presunto,uvas,vegetais,leite,refeições congeladas,batata congelada,pão,waffles,chocolate,docess
+salsicha,presunto,uvas,vegetais,leite,refeições congeladas,batata congelada,pão,waffles,chocolate,doces
 salsicha,carne de porco,queijo,pastelaria,margarina,jornais
 água
 vegetais,leite,iogurte,sorvete,farinha,margarina,fermento em pó,pó para pudim
@@ -3276,7 +3276,7 @@ vegetais,batata congelada,café,salgadinhos,chocolate,sacolas de compras
 refrigerante
 refrigerante
 pastelaria
-presunto,batata,pão,pastelaria,comida de gato,água,refrigerante,docess,meio de armazenamento de som,sacolas de compras
+presunto,batata,pão,pastelaria,comida de gato,água,refrigerante,doces,meio de armazenamento de som,sacolas de compras
 salsicha,frutas,vegetais,café
 refrigerante,chocolate,jornais
 leite,leite,ovos domésticos,jornais
@@ -3329,7 +3329,7 @@ jornais
 queijo,pão,detergente,limpador de louça,solo para flores,fertilizante
 frango,frutas,vegetais,leite,creme de leite,vegetais,café
 frutas,vegetais,pão,pão,cerveja,plantas em vasos
-leite,vegetais,água,suco,docess
+leite,vegetais,água,suco,doces
 frutas,chocolate
 cerveja
 salsicha,carne bovina,frutas,cebolas,vegetais,leite,sobremesa,sobremesa congelada,pão,vegetais,frutas enlatadas,refrigerante
@@ -3361,7 +3361,7 @@ frutas,leite,pastelaria,chocolate,guardanapos,sacolas de compras
 cerveja,licor
 velas
 queijo,refrigerante
-carne de porco,frutas,ervas,leite,sorvete,marshmallow de chocolate,docess,limpador de banheiro,cuidados dentários
+carne de porco,frutas,ervas,leite,sorvete,marshmallow de chocolate,doces,limpador de banheiro,cuidados dentários
 cerveja,vinho
 carne de porco,água,rum,vinho,flor
 bebidas,vegetais,café,refrigerante,suco,filme plástico,sacos
@@ -3385,14 +3385,14 @@ salsicha,carne de porco,vegetais,pão,vegetais,bar especializado,sacolas de comp
 pastelaria,chocolate,velas
 queijo,ketchup,produtos sazonais
 pão,plantas em vasos
-frango,creme de leite,sorvete,batata congelada,refrigerante,docess,sacolas de compras
+frango,creme de leite,sorvete,batata congelada,refrigerante,doces,sacolas de compras
 frutas,refrigerante,pão,chocolate
 salsicha,frango,frutas,vegetais,leite,iogurte,ovos nacionais,pão,massas,óleo,água,refrigerante,cerveja,sacolas de compras
 leite,iogurte
 frutas,leite,iogurte,queijo,vegetais,pipoca
 refrigerante
 refrigerante,suco,waffles
-iogurte,sorvete,refrigerante,pão,docess
+iogurte,sorvete,refrigerante,pão,doces
 carne de porco,vegetais,sobremesa,leite condensado,queijo,queijo,vegetais,sorvete,vegetais,peixe,comida de gato,salgadinho,salgadinho de nozes,waffles,produtos sazonais
 cebolas
 licor
@@ -3554,7 +3554,7 @@ pão
 cerveja,licor,vinho,sacolas de compras
 produtos sazonais
 carne de porco,frutas,cebola,vegetais,leite,sobremesa,iogurte,uísque
-leite,coalhada,iogurte,chocolate,marshmallow,docess,jornais
+leite,coalhada,iogurte,chocolate,marshmallow,doces,jornais
 salsicha,frango,porco,carne bovina,frutas,leite,queijo,refeições congeladas,ovos domésticos,pão,refrigerante,chocolate
 lanche salgado
 vegetais,ervas,vegetais,leite,pão,produtos de rolo,refrigerante,sacolas de compras
@@ -3797,7 +3797,7 @@ waffles
 vegetais,leite
 iogurte
 bagas
-salsicha,vegetais,leite,suco,pipoca,docess
+salsicha,vegetais,leite,suco,pipoca,doces
 frutas,vegetais,açúcar
 leite,pão
 produtos acabados
@@ -3828,7 +3828,7 @@ frutas,
 vegetais,iogurte,chocolate
 carne bovina,pão,pastelaria
 cerveja,licor
-cuidados com animais de estimação,refrigerante,cerveja,produtos para lanches,docess
+cuidados com animais de estimação,refrigerante,cerveja,produtos para lanches,doces
 pão,suco,cerveja,cerveja,chocolate
 vegetais,vegetais,sacolas de compras
 presunto,leite,iogurte,refrigerante,vinho
@@ -3858,7 +3858,7 @@ iogurte
 manteiga,iogurte,pão,refrigerante
 cerveja
 frutas,cerveja
-pão,pão,docess,sacolas de compras
+pão,pão,doces,sacolas de compras
 cerveja
 pão,cerveja
 pão,refrigerante,suco
@@ -3900,7 +3900,7 @@ vegetais,cebolas,leite,água
 cerveja
 cerveja
 frutas,cream cheese,maionese,pão,pão,sopas prontas,fermento em pó,conservas de peixe,pão
-frutas,vegetais,leite,coalhada,iogurte,vegetais,sobremesa congelada,pão,refrigerante,licor,waffles,docess,velas
+frutas,vegetais,leite,coalhada,iogurte,vegetais,sobremesa congelada,pão,refrigerante,licor,waffles,doces,velas
 frutas,leite,leite
 frango,hambúrguer,frutas,vegetais,café
 sobremesa,iogurte,leite,queijo,vegetais,pão,água,guardanapos
@@ -3939,7 +3939,7 @@ vegetais,leite,iogurte,água
 óleo,água,pão
 carne bovina,frutas,leite,iogurte,margarina,gordura,mostarda,vegetais,guardanapos
 água
-salsicha,vegetais,coalhada,iogurte,creme de leite,queijo,queijo,ovos nacionais,óleo,produtos alimentícios instantâneos,refrigerante,vinho,docess,jornais
+salsicha,vegetais,coalhada,iogurte,creme de leite,queijo,queijo,ovos nacionais,óleo,produtos alimentícios instantâneos,refrigerante,vinho,doces,jornais
 salsicha,leite,farinha,flor
 carne de porco,manteiga,coalhada,vegetais,margarina,açúcar,goma de mascar,guardanapos,jornais
 salsicha,carne
@@ -3968,8 +3968,8 @@ nozes,ameixas,pão
 salsicha,coalhada,iogurte,queijo,pão,pastelaria,café,guardanapos
 café
 frango,carne de porco,frutas,vegetais,ervas,vegetais,leite,manteiga,sobremesa congelada,ovos domésticos,pão,água,cerveja
-frutas,vegetais,iogurte,ovos nacionais,pão,massas,pão,zwieback,óleo,margarina,produtos orgânicos,café,água,refrigerante,salgadinhos,waffles,marshmallow de chocolate,docess,produtos sazonais
-vegetais,leite,iogurte,requeijão,pão,pastelaria,batata,fermento em pó,refrigerante,chocolate,docess,produtos sazonais
+frutas,vegetais,iogurte,ovos nacionais,pão,massas,pão,zwieback,óleo,margarina,produtos orgânicos,café,água,refrigerante,salgadinhos,waffles,marshmallow de chocolate,doces,produtos sazonais
+vegetais,leite,iogurte,requeijão,pão,pastelaria,batata,fermento em pó,refrigerante,chocolate,doces,produtos sazonais
 leite,água
 carne bovina,vegetais,sobremesa congelada,pastelaria,vinagre,margarina,açúcar,comida de gato,café,cerveja,película aderente,sacos,velas,plantas em vasos
 limpador abrasivo,guardanapos
@@ -3987,7 +3987,7 @@ pão,refrigerante,suco,cerveja,pão
 cerveja
 cerveja
 leite,pão,especiarias,água
-frutas,docess
+frutas,doces
 Margarina
 salsicha,frutas,vegetais,leite,creme de leite,queijo,queijo,ovos domésticos,pão,massa folhada,açúcar,fermento em pó
 salsicha,jornais
@@ -4014,7 +4014,7 @@ cerveja
 leite,refeições congeladas,refrigerantes,guardanapos,toalhas 
 vegetais,goma de mascar
 leite,queijo
-carne bovina,frutas,vegetais,leite,pão,batata,arroz,refrigerante,suco,docess,plantas em vasos,sacolas de compras
+carne bovina,frutas,vegetais,leite,pão,batata,arroz,refrigerante,suco,doces,plantas em vasos,sacolas de compras
 cerveja
 bebidas,vegetais,refrigerantes,suco,pipoca,jornais
 vegetais
@@ -4053,7 +4053,7 @@ salsicha,frutas,vegetais,leite,manteiga,creme de leite,queijo,ovos nacionais,pra
 vegetais,leite,cerveja,jornais
 frutas,iogurte,leite,queijo,queijo,pão,pastelaria,margarina,waffles,artigos de higiene
 salsicha,cerveja,sacolas de compras
-frango,frutas,vegetais,leite,coalhada,creme de leite,vegetais,sobremesa congelada,pão,pão,pão,margarina,refrigerante,pão,chocolate,docess
+frango,frutas,vegetais,leite,coalhada,creme de leite,vegetais,sobremesa congelada,pão,pão,pão,margarina,refrigerante,pão,chocolate,doces
 hambúrguer,mostarda,sopas,produtos de comida instantânea,doces,refrigerantes,jornais
 leite,iogurte,água,cerveja
 frutas,vegetais,iogurte,margarina,pratos
@@ -4118,16 +4118,16 @@ frango,vinho,sacolas de compras
 sobremesa congelada,água
 frutas,vegetais,coalhada,iogurte,farinha,margarina,açúcar,água,jornais
 frutas,leite,iogurte,sorvete,sobremesa congelada,ovos nacionais,pastelaria,farinha,margarina,café,bolo,guardanapos,sacolas de compras
-salsicha,frutas,pão,pastelaria,refrigerante,suco,cerveja,salgadinho,docess,artigos de higiene
+salsicha,frutas,pão,pastelaria,refrigerante,suco,cerveja,salgadinho,doces,artigos de higiene
 leite,coalhada,pão
 água,bar especializado,jornais
 carne de porco,leite,manteiga,iogurte,queijo,queijo,café,plantas em vasos
 carne bovina,sobremesa,vegetais,arroz,pão,filme plástico,sacos,sacolas de compras
-salsicha,presunto,vegetais,bebidas,maionese,pão,refrigerante,cerveja,chocolate,marshmallow de chocolate,docess
+salsicha,presunto,vegetais,bebidas,maionese,pão,refrigerante,cerveja,chocolate,marshmallow de chocolate,doces
 frutas,vegetais,leite,iogurte,óleo,comida de gato,refrigerante,bebidas diversas,suco,jornais
 frutas,leite,margarina,bebidas de cacau,água
 refrigerante
-vegetais,leite,chocolate,docess,jornais
+vegetais,leite,chocolate,doces,jornais
 frutas
 leite,suco,jornais
 leite,queijo,salgadinho
@@ -4172,9 +4172,9 @@ refrigerante,doces
 frango,frutas,vegetais,iogurte,refrigerante
 salsicha,frutas,sobremesa,leite,sobremesa congelada,pastelaria,adoçante,mostarda,frutas,artigos de higiene
 salsicha,leite,refeições congeladas,ovos domésticos,pão,pastelaria,cerveja,chocolate
-salsicha,leite,manteiga,ovos domésticos,pão,margarina,docess,amaciante,flores,sacolas de compras
+salsicha,leite,manteiga,ovos domésticos,pão,margarina,doces,amaciante,flores,sacolas de compras
 frango,frutas,vegetais
-bebidas,queijo,pão,docess
+bebidas,queijo,pão,doces
 suco
 carne de porco,creme de leite,queijo,queijo,queijo,maionese,pão,água,refrigerante,suco
 salsicha,carne bovina,carne de porco,carne bovina,hambúrguer,frutas,vegetais,leite,ovos domésticos,pão,comida de gato
@@ -4243,7 +4243,7 @@ refrigerante
 frutas,goma de mascar,chocolate,marshmallow de chocolate
 salsicha
 leite,pão,suco,produtos de panificação longa vida,bolo
-bebidas,refeições congeladas,bar especializado,docess
+bebidas,refeições congeladas,bar especializado,doces
 pão,frango,peru,frutas,vegetais,leite,iogurte,queijo,pão,massa folhada,água,refrigerante,limpador de banheiro
 salsicha,carne de porco,vegetais,leite,iogurte,refeições congeladas,cerveja
 iogurte,água,refrigerante,cerveja,chocolate,produtos sanitários femininos
@@ -4257,16 +4257,16 @@ vegetais,leite,suco,chocolate
 frango,carne bovina,vegetais,leite,coalhada,creme de leite,farinha,óleo,açúcar,salgadinho
 vegetais,maionese,refrigerante,chocolate,chocolate
 frutas
-frutas,café,refrigerante,suco,cerveja,docess
+frutas,café,refrigerante,suco,cerveja,doces
 salsicha,frutas,leite,iogurte,ovos nacionais,sal,waffles,bolo
 bebidas diversas
 frutas,água,refrigerante,suco,cerveja,jornais
 salsicha,pastelaria,waffles
-pão,docess
+pão,doces
 frutas
 salsicha,vegetais,iogurte,pão
 xarope
-frutas,leite,pão,comida de gato,água,chocolate,docess,sacolas de compras
+frutas,leite,pão,comida de gato,água,chocolate,doces,sacolas de compras
 leite,pastelaria,jornais
 salsicha,vegetais,cebolas,cerveja
 vegetais,iogurte,creme de leite,geleia,suco,chocolate,pratos,jornais
@@ -4322,7 +4322,7 @@ carne de porco,leite,leite,jornais
 jornais,solo para flores,fertilizante
 pão
 carne bovina,vegetais,leite,margarina,suco,jornais
-salsicha,presunto,leite,pão,suco,vinho,chocolate,chocolate,docess,produtos de limpeza doméstica,sacolas de compras
+salsicha,presunto,leite,pão,suco,vinho,chocolate,chocolate,doces,produtos de limpeza doméstica,sacolas de compras
 pão,refrigerante,suco,cerveja
 carne de porco,leite,manteiga,requeijão,vegetais,pão,pão,pastelaria
 vegetais
@@ -4344,7 +4344,7 @@ salsicha,frango,porco,carne bovina,vegetais,iogurte,maionese,especiarias,chocola
 carne de porco,vegetais,iogurte,leite,vinagre,óleo,refrigerante,jornais
 carne de porco,carne bovina,hambúrguer,vegetais,leite,pão
 frutas,vegetais,vegetais,leite,água
-salsicha,carne de porco,cebola,ervas,leite,queijo,requeijão,ovos nacionais,pão,cerveja,docess
+salsicha,carne de porco,cebola,ervas,leite,queijo,requeijão,ovos nacionais,pão,cerveja,doces
 cerveja
 salsicha,frango,leite,manteiga,bebidas,vinho
 vegetais,refrigerante,licor
@@ -4396,7 +4396,7 @@ cebolas,vegetais,leite,manteiga,leite,creme de leite,sorvete,pão,cerveja,produt
 salsicha,frutas,vegetais,pão,refrigerante,suco,cerveja,cuidados dentários
 salsicha,vegetais,pão,vegetais,café,refrigerante,limpador de louça
 iogurte,pão,pão,salgadinhos,plantas em vasos
-frango,ervas,vegetais,manteiga,pão,pastelaria,margarina,docess
+frango,ervas,vegetais,manteiga,pão,pastelaria,margarina,doces
 carne bovina,hambúrguer,frutas,vegetais,leite,leite,iogurte,creme de leite,macarrão,açúcar,cereais
 leite,pão
 carne de porco,margarina,pratos
@@ -4414,7 +4414,7 @@ salsicha,leite,pastelaria,margarina,peixe,comida de gato,waffles
 vinho,vinho
 hambúrguer,frutas,ervas,vegetais,leite,manteiga,ovos domésticos,macarrão,produtos alimentícios instantâneos,frutas enlatadas,vegetais,água,bebidas diversas,cerveja,artigos de higiene
 frango,vegetais,cebola,vegetais,leite,manteiga,iogurte,queijo,queijo,arroz,açúcar
-peru,frutas,vegetais,ervas,vegetais,frutas,vegetais,leite,leite,iogurte,queijo,pão,óleo,comida de gato,café,água,suco,docess,limpador de louça
+peru,frutas,vegetais,ervas,vegetais,frutas,vegetais,leite,leite,iogurte,queijo,pão,óleo,comida de gato,café,água,suco,doces,limpador de louça
 sobremesa,comida de gato,jornais
 frutas,leite,manteiga,ovos nacionais,água,bebidas diversas,cerveja,licor
 carne bovina,frutas,vegetais,leite,sobremesa,queijo,pão,farinha,açúcar,vegetais,chá,refrigerante,cerveja,chocolate,guardanapos,jornais
@@ -4446,7 +4446,7 @@ carne de porco,frutas,vegetais,creme de leite,vegetais,produtos de rolo
 frutas,vegetais,iogurte,creme de leite,ovos nacionais,pão,vegetais especiais,café,chocolate,plantas em vasos
 chocolate
 frutas,vegetais,iogurte,leite,queijo,suco,artigos de higiene,plantas em vasos
-salsicha,peru,frutas,leite,coalhada,batata,pão,pão,pastelaria,pão,vegetais,doces,água,refrigerante,suco,cerveja,vinho,prosecco,chocolate,docess
+salsicha,peru,frutas,leite,coalhada,batata,pão,pão,pastelaria,pão,vegetais,doces,água,refrigerante,suco,cerveja,vinho,prosecco,chocolate,doces
 salsicha,carne bovina,frutas,vegetais,manteiga,iogurte,leite,leite condensado,queijo,sal,sopas,doces,jornais
 vegetais,leite,queijo,pão,comida de gato,sacolas de compras
 vegetais
@@ -4467,7 +4467,7 @@ suco,produtos sazonais
 salsicha,carne bovina,frango,sorvete,ovos nacionais,pastelaria,massas,açúcar,café,jornais
 leite,ovos nacionais,óleo
 hambúrguer,pastelaria,bebidas diversas
-pão,docess
+pão,doces
 refrigerante,chocolate
 hambúrguer,frutas,vegetais,leite,creme de leite,queijo,pão,sopas,molhos
 salsicha,creme de leite,café
@@ -4554,7 +4554,7 @@ lanche salgado,cuidados dentários
 carne bovina,vegetais,chocolate,jornais,sacolas de compras
 leite,café,refrigerante
 presunto,vegetais,leite,ovos nacionais,doces,bebidas diversas,salgadinhos,artigos de higiene,sacolas de compras
-maionese,docess,jornais
+maionese,doces,jornais
 salsicha,presunto,vegetais,queijo,pão,pão,batata,café,cerveja,pão
 hambúrguer,manteiga,zwieback,produtos alimentícios instantâneos,refrigerante,bebidas diversas
 nata,ovos nacionais,velas
@@ -4573,7 +4573,7 @@ salgadinho,doces
 pão
 frutas,vegetais
 salsicha,frutas,vegetais,leite,ovos domésticos,vinho,detergente,amaciante
-frutas,suco,docess
+frutas,suco,doces
 leite
 cerveja
 leite,creme de leite,pó para pudim
@@ -4609,7 +4609,7 @@ frutas,sobremesa,água,refrigerante,cerveja,vinho,guardanapos
 cerveja,goma de mascar
 cebolas,vegetais,leite,iogurte,ovos domésticos,pastelaria,pratos,sacos de compras
 pastelaria,refrigerante
-frutas,iogurte,queijo,pão,margarina,água,refrigerante,docess,jornais
+frutas,iogurte,queijo,pão,margarina,água,refrigerante,doces,jornais
 hambúrguer,vegetais,leite,queijo,refrigerante,cerveja,chocolate,chocolate
 frutas,leite,café,água,suco,cerveja
 refrigerante
@@ -4679,11 +4679,11 @@ leite,sacolas de compras
 água,refrigerante
 salsicha,frutas,vegetais,creme de leite,vegetais,margarina,cerveja,artigos de higiene
 carne bovina,leite,coalhada,iogurte,queijo,ovos nacionais,pão,pão,óleo,bebidas diversas,filme plástico,sacos,produtos de limpeza doméstica
-salsicha orgânica,peru,frutas,vegetais,leite,sobremesa,leite,iogurte,queijo,queijo,pão,molhos,cerveja,waffles,docess
+salsicha orgânica,peru,frutas,vegetais,leite,sobremesa,leite,iogurte,queijo,queijo,pão,molhos,cerveja,waffles,doces
 refeições congeladas,frutas enlatadas
 mostarda
 iogurte
-carne bovina,frutas,sobremesa,queijo,ovos nacionais,pão,pão,pão,pastelaria,pão,docess,utensílios 
+carne bovina,frutas,sobremesa,queijo,ovos nacionais,pão,pão,pão,pastelaria,pão,doces,utensílios 
 frutas,vegetais,leite,iogurte,queijo,ovos domésticos,pão,margarina,mostarda,água
 frutas,iogurte
 pão,sacolas de compras
@@ -4748,7 +4748,7 @@ bebidas,chocolate
 vinho
 refrigerante
 salsicha,iogurte,pastelaria,comida de gato
-docess
+doces
 pastelaria,óleo,cerveja,chocolate,chocolate
 chocolate,foto,filme
 frutas,vegetais,licor,detergente,pratos,jornais
@@ -4950,7 +4950,7 @@ salsicha,vegetais,pão,vegetais,waffles,sacolas de compras
 leite
 leite,queijo,queijo
 pão,refrigerante,cerveja,guardanapos,sacolas de compras
-óleo,refrigerante,bebidas diversas,cerveja,conhaque,salgadinhos,docess,artigos de higiene,sacolas de compras
+óleo,refrigerante,bebidas diversas,cerveja,conhaque,salgadinhos,doces,artigos de higiene,sacolas de compras
 licor
 pão,pastas de carne
 água
@@ -5060,7 +5060,7 @@ frutas
 iogurte
 vegetais,leite,queijo,queijo
 waffles,chocolate
-salsicha,leite,iogurte,creme de leite,pastelaria,suco,docess
+salsicha,leite,iogurte,creme de leite,pastelaria,suco,doces
 refrigerante
 refrigerante,bar especial
 leite
@@ -5129,7 +5129,7 @@ carne bovina,frutas,vegetais,leite,manteiga,iogurte,queijo,vegetais,arroz,produt
 peixe,chocolate
 frutas,leite,manteiga,xarope
 frutas,leite,ovos domésticos,pão,cuidados com animais de estimação,água,artigos de higiene
-vegetais,sobremesa congelada,pão,margarina,pão,docess,detergente
+vegetais,sobremesa congelada,pão,margarina,pão,doces,detergente
 vegetais,cerveja
 vegetais,ervas,vegetais,leite,iogurte,creme de leite,vegetais,frutas,fermento em pó,vegetais,suco,vinho,produtos de panificação longa vida,sacolas de compras
 peixe,refeições congeladas,ovos nacionais,cerveja,bebidas alcoólicas,pratos,jornais
@@ -5176,13 +5176,13 @@ vegetais,leite,sobremesa,goma de mascar
 presunto,lâmpadas
 chocolate,chocolate
 salsicha,leite,pão
-queijo,pão,açúcar,comida de gato,refrigerante,suco,docess,sacolas de compras
+queijo,pão,açúcar,comida de gato,refrigerante,suco,doces,sacolas de compras
 pão
 goma de mascar
 vegetais,ervas
 frutas,sobremesa,iogurte,refrigerante,doces
 detergente
-frutas,queijo,pão,bebidas diversas,suco,docess
+frutas,queijo,pão,bebidas diversas,suco,doces
 salsicha,iogurte,comida de gato
 refrigerante,licor
 pão
@@ -5479,7 +5479,7 @@ salsicha,leite,pão
 vegetais,leite,pão,cuidados com a pele,pratos,flores
 cerveja
 detergente,foto,filme
-frutas,vegetais,frutas,vegetais,sobremesa,iogurte,leite,queijo,maionese,ovos nacionais,temperos,vegetais,suco,docess
+frutas,vegetais,frutas,vegetais,sobremesa,iogurte,leite,queijo,maionese,ovos nacionais,temperos,vegetais,suco,doces
 carne bovina,vegetais,ervas,vegetais,leite,manteiga,pão,pão,cerveja,produtos de panificação de longa vida,plantas em vasos
 vegetais,frutas,vegetais,pão,bolo,lâmpadas,jornais
 cerveja
@@ -5502,7 +5502,7 @@ vegetais,sorvete,pão,refrigerante,produtos de limpeza doméstica,jornais
 licor
 frutas,vegetais,pão,refrigerante,vinho,jornais
 jornais
-peru,frutas,vegetais,manteiga,creme de leite,queijo,ketchup,suco,docess,guardanapos
+peru,frutas,vegetais,manteiga,creme de leite,queijo,ketchup,suco,doces,guardanapos
 pão,margarina,água,cerveja
 salsicha,refrigerante
 carne bovina,margarina,cerveja,flor
@@ -5526,7 +5526,7 @@ peru,porco,carne bovina,ervas,vegetais,queijo,vegetais,pão,arroz
 carne de porco
 frutas,vegetais,coalhada,leite,leite,refeições congeladas,pão,pão,especiarias,suco,artigos de higiene
 uvas,vegetais,leite,açúcar
-vegetais,leite,manteiga,ovos domésticos,waffles,docess,detergente
+vegetais,leite,manteiga,ovos domésticos,waffles,doces,detergente
 vegetais,leite,iogurte,creme de leite,farinha,pão,sacolas de compras
 frutas
 pão
@@ -5540,12 +5540,12 @@ margarina,bebidas diversas,cerveja
 carne de porco,leite,manteiga,ovos nacionais,margarina,sopas prontas,jornais
 salsicha,hambúrguer,leite,maionese,pão,pastelaria,mostarda,ketchup,produtos de comida instantânea,refrigerante,detergente,cuidados dentários,sacolas de compras
 presunto,frango,vegetais,cebola,vegetais,iogurte,creme de leite,queijo,vegetais,refeições congeladas,sorvete,jornais
-queijo,café,chocolate,docess,removedor de maquiagem,sacolas de compras
+queijo,café,chocolate,doces,removedor de maquiagem,sacolas de compras
 água
 cerveja
 batata,pão,pão
 frutas
-frutas,vegetais,café,bebidas alcoólicas,chocolate,docess,flores,sacolas de compras
+frutas,vegetais,café,bebidas alcoólicas,chocolate,doces,flores,sacolas de compras
 salsicha,frango,carne de porco,frutas,iogurte,creme de leite,vegetais,pão,zwieback,farinha,vinagre,margarina,vegetais,água,refrigerante,waffles,chocolate,marshmallow de chocolate,detergente,guardanapos
 vegetais,leite,margarina
 frango,frutas,vegetais,leite,sobremesa,iogurte,pastelaria,jornais
@@ -5585,10 +5585,10 @@ carne de porco,pão,refrigerante
 vegetais,leite,coalhada,creme de leite,vegetais,pão,pão,salgadinhos,produtos sazonais
 salsicha,frutas,pão,refrigerante
 carne bovina,vegetais,pão,bebidas diversas
-carne de porco,molho para salada,óleo,molhos,café,refrigerante,cerveja,bebida alcoólica,docess,jornais
+carne de porco,molho para salada,óleo,molhos,café,refrigerante,cerveja,bebida alcoólica,doces,jornais
 pão,bebidas diversas,pão
 sobremesa
-frutas,vegetais,leite,leite condensado,peixe,docess
+frutas,vegetais,leite,leite condensado,peixe,doces
 salsicha,frutas,leite,creme de leite,queijo,refrigerante,cuidados com a pele
 salsicha,pão,água
 frango,uvas,vegetais,leite,ovos domésticos,detergente,jornais
@@ -5650,7 +5650,7 @@ frango,coalhada,leite,leite,pão,suco,jornais
 vegetais,leite,iogurte,pão,bolo
 cebolas,vegetais,pão,café,chocolate
 hambúrguer,sobremesa,refrigerante,suco
-salsicha,coalhada,pão,pão,mostarda,docess
+salsicha,coalhada,pão,pão,mostarda,doces
 cerveja
 água,cerveja,vinho
 refrigerante
@@ -5724,7 +5724,7 @@ vegetais,ervas,vegetais,leite,leite,creme de leite,sacolas de compras
 frango,frutas,leite,pão,pão,pastelaria,pão,margarina,água,jornais
 peru,carne bovina,vegetais,creme de leite,fermento em pó,comida de gato,chocolate
 refrigerante
-vegetais,ervas,leite,manteiga,coalhada,pão,refrigerante,chocolate,docess
+vegetais,ervas,leite,manteiga,coalhada,pão,refrigerante,chocolate,doces
 salsicha,leite,pão,farinha,suco,guardanapos
 pastelaria,refrigerante,cerveja,vinho,jornais
 salsicha,frutas,leite,sobremesa,ovos nacionais,pão,margarina,chocolate
@@ -5804,7 +5804,7 @@ cebolas,vegetais
 salsicha,frango,carne de porco,vegetais,leite,manteiga,iogurte,margarina,suco,cerveja
 salsicha,carne bovina,frutas,vegetais,leite,pão,pão,suco,cerveja,filme plástico,sacos
 vegetais,leite,pastelaria,película aderente,sacos,sacos de compras
-vegetais,manteiga,pão,farinha,água,bebidas alcoólicas,docess
+vegetais,manteiga,pão,farinha,água,bebidas alcoólicas,doces
 carne de porco,cebola,vegetais,manteiga,sobremesa,bebidas,leite,queijo,vegetais,pão,café,sacolas de compras
 leite,coalhada,refrigerante,lâmpadas,plantas em vasos,sacolas de compras
 presunto,salsicha orgânica,frutas,cebola,vegetais,leite,manteiga,coalhada,iogurte,queijo,sal,margarina,geleia,cerveja,goma de mascar,limpador abrasivo
@@ -5882,7 +5882,7 @@ pão
 pastelaria,refrigerante
 suco
 goma de mascar
-salsicha,vegetais,frutas,vegetais,iogurte,batata,pão,refrigerante,docess
+salsicha,vegetais,frutas,vegetais,iogurte,batata,pão,refrigerante,doces
 vegetais,leite condensado,café,detergente
 leite,pastelaria
 vegetais,cebolas,vegetais,leite
@@ -5898,7 +5898,7 @@ frutas,vegetais,jornais
 frutas,vegetais,iogurte
 chocolate
 salsicha,salsicha,frutas,leite,iogurte,creme de leite,pão,farinha,óleo,refrigerante,artigos de higiene
-bebidas diversas,waffles,docess
+bebidas diversas,waffles,doces
 frutas,uvas,vegetais,coalhada,bebidas,pastelaria,nozes
 presunto,leite,pão,cerveja
 vegetais,queijo,refeições congeladas,pão,peixe 
@@ -5907,7 +5907,7 @@ cerveja
 carne bovina
 hambúrguer,leite,café
 leite,sobremesa,bebidas,detergente,flor
-carne bovina,frutas,iogurte,batata congelada,pastelaria,sopas,café,docess
+carne bovina,frutas,iogurte,batata congelada,pastelaria,sopas,café,doces
 vegetais,iogurte,pão
 frutas,vegetais,leite,pão,farinha
 salsicha,vegetais,pão,suco
@@ -5936,7 +5936,7 @@ carne bovina,vegetais,frutas,vegetais,leite,pão,massas,óleo,água,refrigerante
 refrigerante,sabão
 cuidados com animais de estimação,café,cerveja
 vegetais,creme de leite
-frutas,leite,iogurte,refeições congeladas,pão,refrigerantes,docess,toalhas 
+frutas,leite,iogurte,refeições congeladas,pão,refrigerantes,doces,toalhas 
 frango,vegetais,leite,vegetais,pão,margarina,refrigerante
 refrigerante,bebidas diversas
 frango,vegetais
@@ -5959,7 +5959,7 @@ leite,creme de leite,pastelaria,salgadinho,pão,goma de mascar
 volta curta
 queijo,queijo
 pão,chocolate
-carne bovina,frutas,vegetais,docess
+carne bovina,frutas,vegetais,doces
 pão,molhos,cuidados com animais de estimação
 refrigerante
 leite,pão,café,sacolas de compras
@@ -6001,7 +6001,7 @@ lanche salgado
 leite,bolo
 cerveja
 jornais
-queijo,pão,açúcar,docess
+queijo,pão,açúcar,doces
 frutas,vegetais,leite,manteiga,chocolate
 iogurte,margarina,suco,sacolas de compras
 frutas,leite,queijo,pão,farinha,açúcar,molhos,cuidados com animais de estimação
@@ -6010,7 +6010,7 @@ sorvete,cerveja
 cerveja
 frutas,jornais
 hambúrguer,frutas,leite,manteiga,iogurte,comida de gato,artigos de higiene,sacolas de compras
-peixe,açúcar,bolo,marshmallow de chocolate,docess
+peixe,açúcar,bolo,marshmallow de chocolate,doces
 legumes s
 frutas,leite,refrigerante,vinho
 frutas,cebolas,iogurte,queijo,pão,cerveja,sacolas de compras
@@ -6024,7 +6024,7 @@ coalhada,comida de cachorro,cerveja
 salsicha,pão,refrigerante
 salsicha,pão,suco
 frutas,pastelaria,sacolas de compras
-vegetais,ervas,vegetais,docess,sacolas de compras
+vegetais,ervas,vegetais,doces,sacolas de compras
 pão
 ovos domésticos,refrigerante,bolo
 petiscos,pão,café,refrigerante,waffles
@@ -6108,14 +6108,14 @@ carne bovina,frango,vegetais,leite
 café,refrigerante,cerveja
 pão
 leite,bebidas,pão,pastelaria,chocolate
-vegetais,leite,iogurte,pão,pastelaria,chocolate,docess
+vegetais,leite,iogurte,pão,pastelaria,chocolate,doces
 carne de porco,vegetais,arroz,vinho,artigos de higiene,jornais,sacolas de compras
 iogurte,ovos nacionais
 refrigerante
 salsicha,pão,peixe,água,cerveja,velas
 foto,filme
 frutas,sobremesa,queijo,pão,sacolas de compras
-frango,iogurte,queijo,queijo,margarina,vegetais,refrigerante,docess,artigos de higiene,pratos
+frango,iogurte,queijo,queijo,margarina,vegetais,refrigerante,doces,artigos de higiene,pratos
 refrigerante,cerveja,sacolas de compras
 salsicha,leite,cerveja
 frutas,vegetais,sorvete
@@ -6174,11 +6174,11 @@ presunto,vegetais,cebolas,ervas,queijo,zwieback,plantas em vasos
 salsicha,bebidas diversas,cerveja,waffles,sacolas de compras
 pratos
 vegetais,pão,vinho
-pão,cerveja,licor,docess
+pão,cerveja,licor,doces
 salsicha,frutas,vegetais,coalhada,iogurte,queijo,queijo,queijo,vegetais,ovos domésticos,água
 frutas,pão,bar especial
 cerveja
-refrigerante,bebidas diversas,docess
+refrigerante,bebidas diversas,doces
 pastelaria,pão,waffles,guardanapos
 cerveja
 chocolate
@@ -6197,8 +6197,8 @@ salsicha,frutas,vegetais,queijo,refrigerante
 leite,manteiga,pão,pastelaria,doces,refrigerante,jornais
 frutas,prosecco
 carne bovina,leite,pão
-salsicha,vegetais,iogurte,leite,pão,pão,chocolate,chocolate,docess
-carne de porco,hambúrguer,frutas,manteiga,iogurte,creme de leite,queijo,vegetais,pão,produtos alimentícios instantâneos,suco,salgadinhos,docess,sacolas de compras
+salsicha,vegetais,iogurte,leite,pão,pão,chocolate,chocolate,doces
+carne de porco,hambúrguer,frutas,manteiga,iogurte,creme de leite,queijo,vegetais,pão,produtos alimentícios instantâneos,suco,salgadinhos,doces,sacolas de compras
 salsicha,frutas,vegetais,queijo,vegetais,velas
 nata,sorvete,pão,refrigerante
 café
@@ -6227,7 +6227,7 @@ sobremesa,cerveja,doces
 sobremesa,pastelaria,cerveja
 vegetais,leite,iogurte,água,licor
 bebidas,comida de gato,limpador de pratos,guardanapos,sacolas de compras
-salsicha,frutas,uvas,pão,massas,suco,chocolate,docess,sacolas de compras
+salsicha,frutas,uvas,pão,massas,suco,chocolate,doces,sacolas de compras
 frutas,uvas,creme de leite,farinha,margarina,açúcar,sopas,fermento em pó,pão,waffles,chocolate,bar especializado,limpador de louça,produtos de higiene feminina,filme plástico,sacos
 pastelaria,bolo
 iogurte,água,xarope,chocolate
@@ -6302,7 +6302,7 @@ salsicha,pão,jornais
 frutas,leite,iogurte,pastelaria,cosméticos masculinos
 refrigerante,guardanapos
 pão,pão,refrigerante
-carne de porco,frutas,açúcar,docess,pratos
+carne de porco,frutas,açúcar,doces,pratos
 frango,frutas,vegetais,vegetais,refeições congeladas,bebidas diversas,jornais,flores
 frutas,leite,leite,pão,sacolas de compras
 solo para flores,fertilizante
@@ -6317,7 +6317,7 @@ frango,hambúrguer,cebola,refeições congeladas,ovos domésticos,vinagre,produt
 água,refrigerante
 carne de porco,artigos de higiene
 sorvete,pão,água,refrigerante
-presunto,vegetais,refeições congeladas,massas,vegetais,refrigerantes,bebidas diversas,docess
+presunto,vegetais,refeições congeladas,massas,vegetais,refrigerantes,bebidas diversas,doces
 leite,creme de leite,comida de cachorro,café,refrigerante,limpador abrasivo,jornais
 salsicha
 carne de porco,pão,água,refrigerante
@@ -6379,11 +6379,11 @@ ovos domésticos,pão
 pão,peixe 
 frutas,café,detergente,velas,sacolas de compras
 ovos domésticos,refrigerantes,artigos de higiene
-frutas,café,suco,cerveja,chocolate,docess,produtos de limpeza doméstica,sacolas de compras
+frutas,café,suco,cerveja,chocolate,doces,produtos de limpeza doméstica,sacolas de compras
 frutas,manteiga
 salsicha,pão,refrigerante
 sorvete,pão
-frutas,vegetais,queijo,especiarias,café,cerveja,chocolate,docess,flores,sacolas de compras
+frutas,vegetais,queijo,especiarias,café,cerveja,chocolate,doces,flores,sacolas de compras
 frutas,leite,jornais
 frutas,leite,ovos nacionais,pastelaria,sal,óleo,açúcar,bebidas de cacau
 pão,cerveja
@@ -6548,7 +6548,7 @@ peixe,vegetais,frutas,vegetais,comida de gato,cuidados com animais de estimaçã
 frutas,vegetais,leite,vegetais,goma de mascar
 café
 cerveja
-peixe,chocolate,marshmallow,docess,cosméticos masculinos
+peixe,chocolate,marshmallow,doces,cosméticos masculinos
 leite,pão,massa folhada
 leite,sobremesa,pão,pão,farinha,vinagre,açúcar,sopas,suco,chocolate
 pastelaria
@@ -6603,7 +6603,7 @@ presunto,creme de leite,queijo,macarrão
 salsicha,frutas,cebolas,vegetais,cerveja,chocolate
 queijo,refrigerante
 carne de porco,frutas,refrigerante,cerveja,bebida alcoólica,jornais
-frutas,mostarda,refrigerante,cerveja,salgadinho,chocolate,docess,sacolas de compras
+frutas,mostarda,refrigerante,cerveja,salgadinho,chocolate,doces,sacolas de compras
 vegetais,água
 salsicha,frutas,vegetais,queijo,pão,óleo,artigos de higiene
 salsicha,presunto,sobremesa,iogurte,queijo,pão,pastelaria,refrigerante
@@ -6611,8 +6611,8 @@ ovos domésticos,cerveja
 salsicha,iogurte,vinho
 queijo,bebidas diversas
 vegetais,ovos domésticos,guardanapos,pratos
-bebidas diversas,chocolate,docess
-frutas,iogurte,peixe,pão,vegetais,refrigerante,suco,vinho,chocolate,docess,artigos de higiene
+bebidas diversas,chocolate,doces
+frutas,iogurte,peixe,pão,vegetais,refrigerante,suco,vinho,chocolate,doces,artigos de higiene
 carne bovina,vegetais,artigos de higiene
 iogurte,produtos sazonais
 salsicha,carne de porco,vegetais,leite,manteiga,iogurte,creme de leite,queijo,zwieback,açúcar,café
@@ -6652,11 +6652,11 @@ carne de porco,vegetais,pastelaria,cerveja
 frutas,leite,pastelaria,refrigerante,vinho
 jornais
 coalhada,queijo,farinha,pão
-leite,queijo,chocolate,docess
+leite,queijo,chocolate,doces
 salsicha,manteiga,cerveja
 leite,cerveja
 frutas,leite condensado,comida de cachorro,água,suco,chocolate
-iogurte,água,bebidas diversas,suco,docess,lâmpadas,jornais
+iogurte,água,bebidas diversas,suco,doces,lâmpadas,jornais
 vegetais,iogurte,bebidas,leite,queijo,pão,artigos de higiene,guardanapos
 peru,frutas,cebolas,creme de leite,pastelaria,pão,batata,café,salgadinhos,sacolas de compras
 pastelaria,ketchup,chocolate,guardanapos
@@ -6774,7 +6774,7 @@ vegetais,jornais
 vegetais,batata,óleo,sacolas de compras
 frutas,leite,pão,pão,margarina,amaciante,guardanapos
 vegetais,leite,cuidados com animais de estimação,refrigerante,cerveja,salgadinho
-frutas,iogurte,pão,refrigerante,suco,docess,guardanapos
+frutas,iogurte,pão,refrigerante,suco,doces,guardanapos
 pão,cerveja
 salsicha,hambúrguer,vegetais,leite,coalhada,queijo,queijo,refeições congeladas,sorvete,ovos domésticos,água,suco,cerveja
 vegetais,leite,queijo,ovos domésticos,zwieback,arroz,mostarda,produtos orgânicos,vegetais,comida de gato,café,suco,limpador,guardanapos,sacolas de compras
@@ -6782,7 +6782,7 @@ frango,frutas,vegetais,ervas,vegetais,leite,coalhada,sorvete,ovos domésticos,ma
 carne bovina,leite,ovos domésticos,água
 cerveja
 salsicha,hambúrguer,frutas,vegetais,pastelaria,refrigerante,salgadinho,salgadinho de nozes,detergente
-presunto,carne bovina,frutas,vegetais,leite,leite,ovos domésticos,pão,massas,mostarda,vegetais,refrigerante,produtos de panificação longa vida,chocolate,chocolate,chocolate,marshmallow de chocolate,docess,guardanapos,utensílios,jornais
+presunto,carne bovina,frutas,vegetais,leite,leite,ovos domésticos,pão,massas,mostarda,vegetais,refrigerante,produtos de panificação longa vida,chocolate,chocolate,chocolate,marshmallow de chocolate,doces,guardanapos,utensílios,jornais
 frango,pão
 leite,creme de leite 
 frutas,vegetais,iogurte,creme de leite,queijo,queijo,pastelaria,pão,farinha,comida de gato
@@ -6895,7 +6895,7 @@ carne bovina,sorvete
 carne de porco,carne bovina,manteiga,creme de leite,refeições congeladas,peixe,pão,massas,peixe,comida de gato,waffles,chocolate,sacolas de compras
 frutas,margarina,refrigerante,pão,waffles,chocolate,detergente,limpador de louça,artigos de higiene,produtos de limpeza doméstica,solo,fertilizante para flores
 frango,vegetais,bebidas,especiarias,artigos de higiene
-frango,frutas,leite,queijo,café,refrigerante,suco,cerveja,vinho,docess,sacolas de compras
+frango,frutas,leite,queijo,café,refrigerante,suco,cerveja,vinho,doces,sacolas de compras
 licor
 frutas,iogurte,creme de leite
 salsicha,leite,ovos domésticos,pão,refrigerante,bolo
@@ -6924,7 +6924,7 @@ leite,refrigerante,bar,jornais
 pastelaria,cerveja,chocolate,jornais
 leite,coalhada,refrigerante,cerveja,filme plástico,sacos
 leite,bebidas diversas,salgadinhos,pão,sacolas de compras
-frutas,óleo,fermento em pó,docess,pratos
+frutas,óleo,fermento em pó,doces,pratos
 leite,peixe,cerveja,limpador abrasivo,limpador
 óleo,doces
 carne bovina,hambúrguer,pão
@@ -6974,7 +6974,7 @@ leite,iogurte,vegetais
 pastelaria,chocolate,chocolate
 frutas,leite,coalhada,iogurte,ovos domésticos,água,refrigerante,sacolas de compras
 sorvete
-leite,leite,batata,fermento em pó,cuidados com animais de estimação,pipoca,docess
+leite,leite,batata,fermento em pó,cuidados com animais de estimação,pipoca,doces
 leite,sobremesa,iogurte,pão
 salsicha,uvas
 frutas,óleo,bebidas diversas
@@ -6994,7 +6994,7 @@ carne de porco,água,vinho
 cebola,pão,artigos de higiene
 frutas,leite,queijo,refeições congeladas,pão,zwieback,vinho,amaciante,artigos de higiene,jornais
 vegetais
-salsicha,vegetais,pão,bebidas diversas,suco,chocolate,docess
+salsicha,vegetais,pão,bebidas diversas,suco,chocolate,doces
 chocolate
 refrigerante
 iogurte,refeições congeladas,refrigerante
@@ -7060,7 +7060,7 @@ salsicha,pastelaria,refrigerante
 leite,queijo,pão,sacolas de compras
 carne bovina,cebola,vegetais,pão
 frutas,limpador de pratos,guardanapos
-ovos domésticos,docess
+ovos domésticos,doces
 vegetais,manteiga,coalhada,pastelaria,chocolate,toalhas 
 amaciante
 leite,manteiga,açúcar,café
@@ -7124,7 +7124,7 @@ frutas,vegetais,leite condensado,vegetais,pastelaria,waffles
 cerveja
 bagas,licor
 leite condensado,água,suco,cerveja,cerveja
-frango,pão,margarina,café,água,vinho,pão,docess,jornais
+frango,pão,margarina,café,água,vinho,pão,doces,jornais
 pão
 carne de porco,frutas,
 leite,pão,sabão,guardanapos,jornais
@@ -7158,7 +7158,7 @@ carne de porco,cerveja,produtos sazonais
 vegetais s
 frango,frutas,vegetais,iogurte,vegetais
 frutas,vegetais,bebidas,utensílios 
-salsicha,queijo,pão,açúcar,docess
+salsicha,queijo,pão,açúcar,doces
 leite,óleo,velas
 carne de porco
 frango
@@ -7179,7 +7179,7 @@ pão,frutas,uvas,vegetais
 salsicha,carne bovina,frutas,queijo,refeições congeladas,batata congelada,pão,sopas prontas,água,refrigerante,suco,vinho,produtos de panificação longa vida,bar especializado
 leite,café
 leite,coalhada,vinho,jornais
-leite,manteiga,pão,massas,docess
+leite,manteiga,pão,massas,doces
 vegetais,manteiga,ovos domésticos,água,refrigerante,bebidas diversas
 leite,iogurte,refeições congeladas,waffles,guardanapos,jornais
 salsicha,carne bovina,leite,pão,massa folhada,suco
@@ -7210,7 +7210,7 @@ salsicha,peru,frutas,coalhada,iogurte,vegetais,pão,vegetais,doces,refrigerante,
 salsicha,frutas,vegetais,creme de leite,queijo,pão,pão,chocolate,limpador de louça,sacolas de compras
 ervas,vegetais,artigos de higiene,guardanapos
 uvas,frutas
-salsicha,vegetais,leite,refrigerante,docess
+salsicha,vegetais,leite,refrigerante,doces
 cerveja,vinho
 iogurte,queijo,pastelaria,sacolas de compras
 cerveja,vinho
@@ -7233,7 +7233,7 @@ vegetais,leite,iogurte
 cerveja,jornais
 água,refrigerante,cerveja
 salsicha,ovos domésticos,pão,peixe,café,cerveja,vinho,cosméticos masculinos,guardanapos,sacolas de compras
-carne de porco,vegetais,bebidas,pão,massas,molhos,água,refrigerante,vinho,vinho,chocolate,chocolate,docess,guardanapos,jornais
+carne de porco,vegetais,bebidas,pão,massas,molhos,água,refrigerante,vinho,vinho,chocolate,chocolate,doces,guardanapos,jornais
 uvas
 cerveja,prosecco
 café
@@ -7322,7 +7322,7 @@ carne bovina,refeições congeladas,pão,refrigerantes
 cerveja,licor
 frutas,pastelaria,produtos sazonais
 sorvete,refrigerante,bebidas diversas,licor
-frutas,vegetais,iogurte,queijo,queijo,pão,ketchup,salgadinhos,waffles,docess
+frutas,vegetais,iogurte,queijo,queijo,pão,ketchup,salgadinhos,waffles,doces
 Margarina
 refrigerante
 salsicha,pão
@@ -7340,13 +7340,13 @@ leite,pão,suco
 salsicha,pão
 produtos sanitários femininos
 carne bovina,leite,iogurte,queijo
-salsicha,leite,pão,refrigerante,salgadinho,pão,waffles,marshmallow de chocolate,docess
+salsicha,leite,pão,refrigerante,salgadinho,pão,waffles,marshmallow de chocolate,doces
 salsicha,bebidas,pão,sal,refrigerante,salgadinho,pipoca,cuidados dentários,removedor de maquiagem
 frutas,sobremesa congelada
 salsicha,café
 carne bovina,vegetais,ovos domésticos,vinagre,refrigerante
 coalhada,sorvete,macarrão,comida de gato
-água,cerveja,docess
+água,cerveja,doces
 iogurte,jornais
 vegetais,vegetais,água,suco
 queijo,ovos nacionais,café,sacolas de compras
@@ -7395,7 +7395,7 @@ nata
 creme de leite,jornais
 vegetais,leite,leite,queijo,queijo,queijo,queijo,vegetais s
 frutas,leite,queijo,pão
-frutas,pão,pão,salgadinhos,docess
+frutas,pão,pão,salgadinhos,doces
 chocolate
 carne bovina,pão,sacolas de compras
 refrigerante,cerveja,bebida alcoólica,salgadinho,sacolas de compras
@@ -7432,7 +7432,7 @@ carne de porco,carne bovina,frutas,ovos domésticos,óleo
 frutas
 frutas,uvas,refeições congeladas,pão,mostarda,cerveja,licor
 frutas,pão,refrigerante,bar especializado
-carne bovina,hambúrguer,vegetais,leite,pão,docess
+carne bovina,hambúrguer,vegetais,leite,pão,doces
 sacolas de compras
 hambúrguer,leite,queijo,macarrão,sacolas de compras
 vegetais,margarina,velas
@@ -7453,7 +7453,7 @@ leite,pão,mostarda,água,refrigerante,jornais
 carne de porco,ervas,vegetais,leite,requeijão,suco
 leite,refrigerante
 vegetais,leite,ovos domésticos,pratos
-leite,manteiga,suco,docess
+leite,manteiga,suco,doces
 frango,leite,pão
 leite,pão,pão,óleo,molhos
 frutas,pastelaria
@@ -7500,7 +7500,7 @@ pastelaria,refrigerante
 salsicha,frutas,vegetais,especiarias,flores
 vegetais,refrigerantes,sacolas de compras
 salsicha,pão,pastelaria
-carne de porco,creme de leite,pão,óleo,refrigerante,pão,chocolate,docess
+carne de porco,creme de leite,pão,óleo,refrigerante,pão,chocolate,doces
 cerveja
 uvas,massas,pratos
 água,bebidas diversas,suco,cerveja
@@ -7524,7 +7524,7 @@ hambúrguer,queijo,doces,café,cerveja,filme plástico,sacos,sacolas de compras
 frango,frutas,vegetais,bebidas,café,cerveja,bebidas alcoólicas
 frutas,manteiga,água,cosméticos masculinos,jornais
 nozes,ameixas,vegetais,iogurte,leite condensado,sorvete,pão,cerveja,conhaque,salgadinho
-carne de porco,vegetais,leite,queijo,peixe,ovos domésticos,bolo,marshmallow de chocolate,docess
+carne de porco,vegetais,leite,queijo,peixe,ovos domésticos,bolo,marshmallow de chocolate,doces
 uvas,queijo,margarina,gordura,jornais
 salsicha,pão,refrigerante
 refrigerante
@@ -7634,7 +7634,7 @@ salsicha,pão,refrigerante,chocolate
 leite
 frutas,iogurte,refrigerante
 comida de gato,refrigerante,doces
-pão,massa folhada,docess
+pão,massa folhada,doces
 bolo,chocolate
 iogurte,pão
 salsicha,carne de porco,frutas,vegetais,leite,sobremesa,creme de leite,queijo,refeições congeladas,comida de gato,salgadinhos,bolo,goma de mascar,bar,produtos sazonais
@@ -7750,7 +7750,7 @@ frutas
 água,pão
 salsicha,maionese,pão,sacolas de compras
 carne bovina,vegetais,leite,pastelaria,refrigerante,jornais
-frutas,café,docess,sabão,sacolas de compras
+frutas,café,doces,sabão,sacolas de compras
 frutas,leite,pão,suco,cerveja,vinho,sacolas de compras
 vegetais,cerveja,sacolas de compras
 frutas,vegetais,refeições congeladas
@@ -7932,7 +7932,7 @@ frutas,iogurte,jornais
 leite,sobremesa,iogurte,peixe,refrigerante,suco,sacolas de compras
 cerveja,conhaque,uísque,chocolate,chocolate,sacolas de compras
 licor,salgadinho,chocolate,chocolate,chocolate,sacolas de compras
-coalhada,café,refrigerante,cerveja,chocolate,docess,sacolas de compras
+coalhada,café,refrigerante,cerveja,chocolate,doces,sacolas de compras
 vegetais,leite,ovos domésticos,margarina,suco
 nozes,ameixas,refrigerante,chocolate
 vegetais,sorvete,óleo,licor,chocolate,sacolinhas de compras
@@ -8106,12 +8106,12 @@ frutas,queijo
 vinho
 carne de porco,frutas,uvas,vegetais,queijo,cuidados com animais de estimação,água,suco,cerveja
 leite
-docess,artigos de higiene
+doces,artigos de higiene
 frango,refrigerante,bebida alcoólica,jornais,sacolas de compras
 frutas,leite,pão,peixe,água,vinho,cosméticos masculinos
-uvas,pão,pão,docess
+uvas,pão,pão,doces
 pão
-hambúrguer,frutas,cebolas,vegetais,refrigerante,docess,sacolas de compras
+hambúrguer,frutas,cebolas,vegetais,refrigerante,doces,sacolas de compras
 vegetais
 doces
 salsicha,vegetais,bebidas,pão,vinho,chocolate,sacolas de compras
@@ -8147,7 +8147,7 @@ adoçante,café
 vegetais,cuidados com animais de estimação,bebidas diversas,chocolate,jornais
 comida de cachorro
 presunto,frutas,vegetais,leite,queijo,ovos nacionais,pão,suco
-cerveja,licor,vinho,waffles,docess,guardanapos,sacolas de compras
+cerveja,licor,vinho,waffles,doces,guardanapos,sacolas de compras
 sorvete,ovos nacionais,pão,água,refrigerante,cerveja,nozes,sacolas de compras
 café,xarope
 carne bovina,queijo,pão,vinho,sacolas de compras
@@ -8171,7 +8171,7 @@ vegetais,leite,pão,filme plástico,sacos
 salsicha,pão,café
 pão
 frutas,iogurte,água,chocolate
-frutas,uvas,cebolas,vegetais,creme de leite,queijo,maionese,vegetais,sorvete,mostarda,temperos,produtos de preservação,café,bebidas de cacau,produtos de panificação longa vida,waffles,chocolate,docess,limpador de louça,limpador abrasivo,artigos de higiene
+frutas,uvas,cebolas,vegetais,creme de leite,queijo,maionese,vegetais,sorvete,mostarda,temperos,produtos de preservação,café,bebidas de cacau,produtos de panificação longa vida,waffles,chocolate,doces,limpador de louça,limpador abrasivo,artigos de higiene
 lanche salgado
 vegetais,arroz,café,chocolate,artigos de higiene,sacolas de compras
 cerveja
@@ -8184,7 +8184,7 @@ pão
 carne de porco,vegetais,creme de leite,vegetais,cereais,comida de gato,suco,bolo,chocolate,chocolate,guardanapos,jornais,sacolas de compras
 carne bovina,leite,ovos domésticos,pastelaria
 vegetais,leite condensado,refrigerante,bebidas diversas
-leite,refeições congeladas,pão,água,refrigerante,docess
+leite,refeições congeladas,pão,água,refrigerante,doces
 carne bovina,vegetais,água,refrigerante
 salsicha,iogurte,pão,água,refrigerante,sacolas de compras
 salsicha,presunto,coalhada,refrigerante,bolo,sacolas de compras
@@ -8300,7 +8300,7 @@ ovos domésticos,pão,farinha
 sobremesa,bar especializado,jornais
 bebidas,peixe,sal,açúcar,produtos de salgadinhos
 salsicha,presunto,carne bovina,frutas,iogurte,queijo,pão,comida de gato,chocolate,chocolate
-pão,margarina,água,refrigerante,vinho,chocolate,docess,jornais
+pão,margarina,água,refrigerante,vinho,chocolate,doces,jornais
 salsicha,pão
 frutas,leite,iogurte
 carne de porco,carne bovina,uvas,frutas,vegetais,frutas,vegetais,iogurte,jornais
@@ -8318,12 +8318,12 @@ salsicha,pão,pão,café,água,refrigerante,cerveja,chocolate,filme plástico,sa
 salsicha,hambúrguer,vegetais,leite,iogurte,pão,chocolate
 sacolas de compras
 leite,iogurte,peixe,ovos domésticos,pão,margarina,suco,waffles,cuidados com a pele,artigos de higiene
-salsicha,frutas,queijo,sorvete,pão,refrigerante,chocolate,docess,sacolas de compras
+salsicha,frutas,queijo,sorvete,pão,refrigerante,chocolate,doces,sacolas de compras
 legumes s
 frutas,queijo,pão
 frutas,leite,iogurte
 nata,vegetais,farinha,flores
-frutas,massas,docess
+frutas,massas,doces
 salsicha,frutas,vegetais,iogurte
 água
 frutas,creme de leite
@@ -8410,8 +8410,8 @@ leite,iogurte,refeições congeladas,massas,molhos,peixe,comida de gato,cuidados
 queijo,água,refrigerante
 pão
 refeições congeladas,cerveja,vinho,salgadinhos
-salsicha,frutas,uvas,vegetais,frutas,vegetais,manteiga,coalhada,leite,iogurte,pão,farinha,suco,waffles,docess,sacolas de compras
-frutas,refeições congeladas,pão,docess,jornais
+salsicha,frutas,uvas,vegetais,frutas,vegetais,manteiga,coalhada,leite,iogurte,pão,farinha,suco,waffles,doces,sacolas de compras
+frutas,refeições congeladas,pão,doces,jornais
 carne bovina,vegetais,waffles,plantas em vasos
 cerveja,licor
 ovos domésticos
@@ -8526,13 +8526,13 @@ chocolate
 Pipoca
 leite,leite condensado
 salsicha,carne bovina,hambúrguer,uvas,leite,creme de leite,maionese,vegetais,café,refrigerante,bebidas diversas,produtos de panificação longa vida,artigos de higiene
-carne de porco,frutas,vegetais,leite,sobremesa,iogurte,peixe,margarina,vegetais,chocolate,docess
+carne de porco,frutas,vegetais,leite,sobremesa,iogurte,peixe,margarina,vegetais,chocolate,doces
 frutas,leite,chocolate,jornais
 coalhada,goma de mascar,chocolate,jornais
 vegetais,queijo,queijo,pão,massa folhada
 salsicha,carne de porco,carne bovina,frutas,vegetais,cebolas,vegetais,leite,queijo,mostarda,ketchup,água,refrigerante,waffles,marshmallow de chocolate,limpador de banheiro,guardanapos,jornais
 iogurte,refeições congeladas,pão,chocolate,sacolas de compras
-salsicha,frutas,vegetais,leite,queijo,pão,vegetais,docess,guardanapos
+salsicha,frutas,vegetais,leite,queijo,pão,vegetais,doces,guardanapos
 frutas,leite,água,refrigerante,bebidas diversas,suco,guardanapos
 leite,refeições congeladas,sorvete
 vegetais,sorvete
@@ -8658,7 +8658,7 @@ frutas,leite
 queijo,pão
 queijo
 salsicha,carne bovina,uvas,vegetais,pão,cerveja
-hambúrguer,pão,macarrão,vegetais especiais,água,refrigerante,salgadinhos,waffles,bolo,docess
+hambúrguer,pão,macarrão,vegetais especiais,água,refrigerante,salgadinhos,waffles,bolo,doces
 salsicha,uvas,iogurte,queijo,batata,pão,pastas de carne bovina,água,refrigerante,goma de mascar
 leite,pão,margarina,cerveja
 frutas,pão,sopas
@@ -8733,17 +8733,17 @@ manteiga,cerveja
 salsicha,vegetais,ovos domésticos,refrigerante,suco,guardanapos,plantas em vasos
 salsicha,pão,frutas,cebolas,iogurte,ovos domésticos,pão,óleo,suco
 chocolate,doces
-leite,docess,guardanapos
+leite,doces,guardanapos
 salsicha,frutas,pão,refrigerante,filme plástico,sacos,sacolas de compras
 Requeijão cremoso
 cerveja,sacolas de compras
 pão,suco,chocolate,jornais
 pão
-leite,pão,salgadinhos,bolo,chocolate,docess,jornais
-salsicha,carne bovina,frutas,uvas,vegetais,leite,coalhada,leite,iogurte,queijo,queijo,queijo,refeições congeladas,pão,pastelaria,docess
+leite,pão,salgadinhos,bolo,chocolate,doces,jornais
+salsicha,carne bovina,frutas,uvas,vegetais,leite,coalhada,leite,iogurte,queijo,queijo,queijo,refeições congeladas,pão,pastelaria,doces
 frutas,creme de leite,vegetais,pão,salgadinhos,limpador de louça
 carne bovina,uvas,leite,manteiga,coalhada,sorvete,comida de gato,água,limpador de louça
-salsicha,pão,chocolate,docess,sacolas de compras
+salsicha,pão,chocolate,doces,sacolas de compras
 presunto,frutas,sorvete,pão,chocolate,marshmallow
 uvas,vegetais,ovos domésticos
 leite
@@ -8762,7 +8762,7 @@ maionese,petiscos,pão,água,refrigerante,bolo
 pão
 frango,porco,carne bovina,leite,coalhada,queijo,queijo,batata,pão,pipoca
 cerveja,licor
-frango,hambúrguer,vegetais,manteiga,iogurte,pão,pão,arroz,suco,bolo,chocolate,docess,sacolas de compras
+frango,hambúrguer,vegetais,manteiga,iogurte,pão,pão,arroz,suco,bolo,chocolate,doces,sacolas de compras
 leite
 presunto,carne de porco,pão,doces
 pão
@@ -8792,7 +8792,7 @@ pão
 bebidas,pipoca
 vegetais,leite,arroz,suco
 salsicha,frutas,sobremesa,leite,vegetais,refeições congeladas,ovos domésticos,pão,pão,pastelaria,refrigerante,salgadinho,pão,guardanapos,sacolas de compras
-pastelaria,cerveja,salgadinho,pão,chocolate,docess,velas
+pastelaria,cerveja,salgadinho,pão,chocolate,doces,velas
 salsicha,carne bovina,creme de leite,pão,sal,produtos alimentícios instantâneos,refrigerante,amaciante
 frutas,pão,farinha,margarina,açúcar,mostarda,comida de gato,refrigerante,cerveja,nozes,jornais,sacolas de compras
 frutas,sacolas de compras
@@ -8885,7 +8885,7 @@ salsicha,frango,frutas,uvas,frutas,vegetais,cebolas,vegetais,leite,manteiga,crem
 iogurte,vinho
 leite,pão
 sorvete
-salsicha,frango,vegetais,leite,coalhada,pão,docess,detergente
+salsicha,frango,vegetais,leite,coalhada,pão,doces,detergente
 hambúrguer,vegetais,refeições congeladas,ovos domésticos
 salsicha,carne de porco,coalhada,refrigerante,pão,guardanapos
 salsicha,carne bovina,carne de porco,vegetais,cebola,leite,bebidas,maionese,refrigerante,chocolate
@@ -8900,7 +8900,7 @@ pratos
 carne de porco,vegetais
 carne bovina,óleo,café,vinho
 leite,waffles
-frango,carne de porco,carne bovina,vegetais,leite,manteiga,creme de leite,queijo,queijo,queijo,vegetais,frutas,pastelaria,açúcar,refrigerante,produtos de panificação longa vida,waffles,marshmallow de chocolate,docess
+frango,carne de porco,carne bovina,vegetais,leite,manteiga,creme de leite,queijo,queijo,queijo,vegetais,frutas,pastelaria,açúcar,refrigerante,produtos de panificação longa vida,waffles,marshmallow de chocolate,doces
 iogurte,vegetais,refrigerante,suco,cerveja,salgadinho
 salgadinho,doces
 frutas,marshmallow de chocolate
@@ -8925,7 +8925,7 @@ açúcar
 hambúrguer,vegetais s
 leite
 nozes,ameixas,licor
-salsicha,frutas,uvas,vegetais,pão,pão,refrigerante,xarope,cerveja,pão,docess,álcool isopropílico,filme plástico,sacos
+salsicha,frutas,uvas,vegetais,pão,pão,refrigerante,xarope,cerveja,pão,doces,álcool isopropílico,filme plástico,sacos
 vinho
 frutas,bebidas,cerveja,sacolas de compras
 salsicha,frutas,vegetais,leite condensado,queijo,pão,macarrão,óleo,café,refrigerante,suco,cerveja,limpador abrasivo,limpador de banheiro,guardanapos
@@ -8934,7 +8934,7 @@ salsicha,carne bovina,frutas,vegetais,leite,iogurte,queijo,cerveja,produtos de l
 carne de porco,frutas,nozes,ameixas,vegetais,refeições congeladas,margarina,jornais
 bebidas diversas,suco,cerveja,goma de mascar,chocolate,sacolas de compras
 sorvete
-chocolate,docess,sacolas de compras
+chocolate,doces,sacolas de compras
 leite,pão,pão,pão,margarina
 vegetais,suco,goma de mascar
 queijo
@@ -8991,12 +8991,12 @@ peixe,licor
 leite,pão,margarina,comida de gato,refrigerante
 refrigerante,cerveja
 pastelaria,refrigerante,bebidas diversas,cerveja,salgadinhos,chocolate,sacolas de compras
-salsicha,frutas,vegetais,iogurte,creme de leite,pão,água,refrigerante,bebidas diversas,chocolate,chocolate,docess,sacolas de compras
+salsicha,frutas,vegetais,iogurte,creme de leite,pão,água,refrigerante,bebidas diversas,chocolate,chocolate,doces,sacolas de compras
 iogurte,leite,ovos nacionais,pão,pão
 ovos domésticos,cerveja,licor,marshmallow de chocolate,sacolas de compras
 salsicha,vegetais,leite,manteiga,suco
 presunto,leite,pão
-vegetais,leite,pastelaria,salgadinhos,docess
+vegetais,leite,pastelaria,salgadinhos,doces
 frutas,iogurte,refrigerante
 leite,pão,margarina
 salsicha,carne de porco,frutas,vegetais,leite,manteiga,coalhada,iogurte,creme,queijo,queijo,vegetais,peixe,batata,pão,margarina,fermento em pó,comida de gato,cuidados com animais de estimação,refrigerante,suco,nozes,chocolate,produtos sanitários femininos,artigos de higiene,guardanapos,produtos de limpeza doméstica
@@ -9007,7 +9007,7 @@ vinho
 pão
 vegetais,peixe,pão,vinho
 salsicha,frutas,queijo,pão,goma de mascar,chocolate
-frutas,vegetais,leite,ovos domésticos,frutas enlatadas,refrigerantes,waffles,docess,jornais
+frutas,vegetais,leite,ovos domésticos,frutas enlatadas,refrigerantes,waffles,doces,jornais
 sobremesa,leite,pão,cerveja,sacolas de compras
 frutas,leite,iogurte,pão,água,refrigerante,chocolate,marshmallow
 hambúrguer,frutas,vegetais,sacolas de compras
@@ -9085,11 +9085,11 @@ frutas
 salsicha,frango,carne de porco,frutas,vegetais,frutas,vegetais,coalhada,iogurte,creme de leite,vegetais
 hambúrguer,vegetais,leite,manteiga,queijo,pastelaria,cereais
 frutas,vegetais,queijo,ovos domésticos,vegetais,suco
-carne bovina,coalhada,iogurte,creme de leite,refeições congeladas,pão,peixe,café,docess,filme plástico,sacos
+carne bovina,coalhada,iogurte,creme de leite,refeições congeladas,pão,peixe,café,doces,filme plástico,sacos
 vegetais,iogurte,pão,sal,vinho,guardanapos
 salsicha
 vegetais,leite,cerveja
-presunto,carne bovina,vegetais,leite,coalhada,iogurte,vegetais,refeições congeladas,peixe,pão,geleia,bebidas diversas,docess,detergente
+presunto,carne bovina,vegetais,leite,coalhada,iogurte,vegetais,refeições congeladas,peixe,pão,geleia,bebidas diversas,doces,detergente
 salsicha,vegetais,leite,creme de leite
 carne bovina,frutas,queijo,refrigerante
 presunto,vegetais,ervas,leite,coalhada,iogurte,queijo,pão,detergente
@@ -9122,7 +9122,7 @@ frutas,vegetais,manteiga,ovos domésticos,pão,margarina,água
 pão,vinho
 carne bovina,frutas,vegetais,pão,refrigerantes,guardanapos,pratos
 frutas,vegetais,iogurte,queijo,água,pão,chocolate
-carne bovina,vegetais,leite,pastelaria,refrigerante,waffles,docess
+carne bovina,vegetais,leite,pastelaria,refrigerante,waffles,doces
 vegetais,creme de leite,queijo,vegetais,sobremesa congelada,óleo,margarina,fermento em pó
 frango,porco,carne bovina,frutas,vegetais,leite,pão
 salsicha,carne bovina,frutas,queijo
@@ -9135,8 +9135,8 @@ açúcar
 peru,nozes,ameixas,vegetais,leite,manteiga,coalhada,ovos domésticos,pastelaria,chá
 produtos de limpeza,produtos sanitários femininos
 ervas,vegetais,creme de leite,leite,ovos domésticos,doces,chocolate,descalcificador,guardanapos
-frutas,vegetais,comida de cachorro,refrigerante,salgadinho,waffles,docess,limpador de louça,jornais
-frutas,vegetais,leite,iogurte,pastelaria,waffles,docess,cuidados dentários
+frutas,vegetais,comida de cachorro,refrigerante,salgadinho,waffles,doces,limpador de louça,jornais
+frutas,vegetais,leite,iogurte,pastelaria,waffles,doces,cuidados dentários
 carne bovina,vegetais,iogurte,creme de leite
 salsicha,vegetais,pão,fermento em pó,refrigerante,filme plástico,sacos,produtos de limpeza doméstica
 refrigerante,cerveja
@@ -9194,7 +9194,7 @@ pastelaria
 água
 vegetais,leite,sobremesa,queijo,queijo,queijo,pastelaria,margarina,açúcar,sopas prontas,água,refrigerante,salgadinho,jornais,sacolas de compras
 frutas,iogurte,vegetais,bebidas diversas
-salsicha,iogurte,peixe,sorvete,batata congelada,pastelaria,margarina,peixe,refrigerante,cerveja,salgadinho,salgadinho de nozes,pão,chocolate,docess
+salsicha,iogurte,peixe,sorvete,batata congelada,pastelaria,margarina,peixe,refrigerante,cerveja,salgadinho,salgadinho de nozes,pão,chocolate,doces
 pastelaria,óleo,margarina
 frutas,ovos domésticos
 carne bovina,frango,carne de porco,frutas,vegetais,leite,leite,vegetais,pão,arroz,açúcar,café,foto,filme
@@ -9223,7 +9223,7 @@ pão,jornais
 leite,refrigerante
 salsicha,carne bovina,pão,refrigerante,suco,cosméticos masculinos,sacolas de compras
 sorvete,água,refrigerante
-frango,vegetais,pão,margarina,refrigerante,bebidas diversas,docess
+frango,vegetais,pão,margarina,refrigerante,bebidas diversas,doces
 sacolas de compras
 água,cerveja
 vegetais,vinho
@@ -9240,7 +9240,7 @@ iogurte,creme de leite
 água,refrigerante,cerveja,waffles,chocolate,pratos
 água
 bagas
-pastelaria,chocolate,chocolate,docess,produtos sazonais
+pastelaria,chocolate,chocolate,doces,produtos sazonais
 frutas,vegetais,pão,bolo
 frango,vegetais,leite,manteiga,iogurte,queijo,ovos nacionais,pastelaria,arroz,peixe,bebidas diversas,detergente,produtos de limpeza doméstica
 salsicha,frango,vegetais,leite,iogurte,pão,refrigerante,artigos de higiene,guardanapos,sacolas de compras
@@ -9308,7 +9308,7 @@ uvas
 carne bovina,refrigerante
 vegetais,leite,pão,refrigerante
 carne de porco,vegetais,leite,queijo,óleo,chocolate,guardanapos
-frutas,iogurte,pão,docess,sacolas de compras
+frutas,iogurte,pão,doces,sacolas de compras
 frutas,vegetais,água
 pão,óleo,pratos
 waffles
@@ -9396,7 +9396,7 @@ salsicha,sobremesa,leite,refrigerante,vinho
 iogurte,leite,vegetais,pastelaria,batata,refrigerante,sacolas de compras
 Requeijão cremoso
 frutas
-frutas,leite,leite condensado,peixe,bebidas diversas,suco,docess
+frutas,leite,leite condensado,peixe,bebidas diversas,suco,doces
 hambúrguer,pão
 açúcar
 salsicha,vegetais,queijo,refrigerante,cerveja,vinho,chocolate
@@ -9473,7 +9473,7 @@ lanche salgado
 leite,pastelaria,óleo,pipoca,salgadinhos,detergente,sacolas de compras
 salsicha,vegetais,pão,sal,conservas de peixe,sacolas de compras
 sobremesa,iogurte,queijo,refrigerante
-frutas,vegetais,chocolate,docess,sacolas de compras
+frutas,vegetais,chocolate,doces,sacolas de compras
 frutas,bebidas,água,refrigerante,suco,filme plástico,sacos,sacolas de compras
 iogurte,adoçante,suco,sacolas de compras
 manteiga,refrigerante,suco,cerveja
@@ -9507,11 +9507,11 @@ frutas
 carne bovina
 vegetais,sorvete
 leite,pão
-salsicha,frango,cebola,vegetais,frutas,vegetais,manteiga,iogurte,bebidas,queijo,vegetais,ovos domésticos,pão,água,refrigerante,suco,cerveja,cerveja,vinho,waffles,chocolate,docess,limpador,cuidados dentários
+salsicha,frango,cebola,vegetais,frutas,vegetais,manteiga,iogurte,bebidas,queijo,vegetais,ovos domésticos,pão,água,refrigerante,suco,cerveja,cerveja,vinho,waffles,chocolate,doces,limpador,cuidados dentários
 leite,petiscos,pão,cerveja,guardanapos
 manteiga,leite,ovos domésticos
 frutas,vegetais,pão
-carne bovina,frutas,coalhada,creme de leite,pão,água,pão,marshmallow de chocolate,docess,limpador de louça
+carne bovina,frutas,coalhada,creme de leite,pão,água,pão,marshmallow de chocolate,doces,limpador de louça
 salsicha,hambúrguer,cerveja,pratos
 leite,refeições congeladas,pão,suco,sacolas de compras
 frutas,vegetais,pão,cerveja,waffles
@@ -9521,7 +9521,7 @@ salsicha,presunto,frutas,vegetais,ovos domésticos,zwieback,margarina,refrigeran
 frutas,iogurte,pão,artigos de higiene
 frutas,vegetais,bebidas diversas
 salsicha,leite,sobremesa,pastelaria,refrigerante
-salsicha,carne de porco,frutas,vegetais,queijo,refeições congeladas,sobremesa congelada,pastelaria,pão,açúcar,refrigerante,salgadinho,chocolate,chocolate,docess,produtos sazonais
+salsicha,carne de porco,frutas,vegetais,queijo,refeições congeladas,sobremesa congelada,pastelaria,pão,açúcar,refrigerante,salgadinho,chocolate,chocolate,doces,produtos sazonais
 salsicha,frutas,iogurte,cerveja,pão
 pão,cerveja
 hambúrguer,frutas,ervas,vegetais,leite,coalhada,sorvete,produtos alimentícios instantâneos,jornais,sacolas de compras
@@ -9563,7 +9563,7 @@ cerveja
 frango,vegetais,leite,arroz,óleo
 iogurte,vinagre
 frutas,leite,iogurte,queijo,pão,cerveja,vinho,pão,flor
-waffles,docess
+waffles,doces
 frango,queijo,arroz
 goma de mascar
 leite,água,cerveja
@@ -9607,7 +9607,7 @@ carne de porco,frutas,vegetais,leite,pão,pastelaria,refrigerante,suco
 cebolas,salgadinhos
 salsicha,carne de porco,frutas,leite,creme de leite,pão,óleo,açúcar,sopas,água,cerveja
 frango,frutas,cebolas,vegetais,iogurte,cuidados com animais de estimação,plantas em vasos
-refeições congeladas,cerveja,docess
+refeições congeladas,cerveja,doces
 coalhada,comida de gato
 vegetais,leite,coalhada,pão,massas,massas,guardanapos
 bebidas
@@ -9622,7 +9622,7 @@ chocolate
 refrigerante
 presunto,frango,carne de porco,vegetais,leite,creme de leite,pão,açúcar,refrigerante,waffles,chocolate,chocolate,marshmallow de chocolate,guardanapos
 goma de mascar,chocolate
-vegetais,manteiga,queijo,queijo,ovos nacionais,pão,pastelaria,pão,docess
+vegetais,manteiga,queijo,queijo,ovos nacionais,pão,pastelaria,pão,doces
 refrigerante
 salsicha,iogurte,pão
 vegetais,leite,coalhada
@@ -9678,7 +9678,7 @@ frutas,sobremesa,petiscos,pastelaria,waffles,limpador
 salsicha,presunto,frutas,leite,coalhada,leite,iogurte,queijo
 vegetais,ovos domésticos
 salsicha,presunto,queijo,molhos
-ovos domésticos,pão,farinha,óleo,comida de gato,café,refrigerante,docess,artigos de higiene,toalhas 
+ovos domésticos,pão,farinha,óleo,comida de gato,café,refrigerante,doces,artigos de higiene,toalhas 
 vegetais
 salsicha,vegetais,sobremesa,pastelaria,farinha,açúcar,refrigerante,bolo
 frutas,cebolas,manteiga,iogurte,café,refrigerante,suco,bar especializado
@@ -9720,7 +9720,7 @@ leite,água,rum,goma de mascar
 iogurte
 iogurte
 artigos de higiene,guardanapos
-leite,café,cerveja,chocolate,docess
+leite,café,cerveja,chocolate,doces
 vegetais,ervas,vegetais,guardanapos,flores
 chocolate
 salsicha,vegetais,leite,iogurte,bebidas,pão,suco
