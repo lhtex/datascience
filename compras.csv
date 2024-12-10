@@ -160,7 +160,7 @@ frutas,vegetais,frutas,vegetais,leite,salgadinho
 carne bovina,ervas,farinha,filme plástico,sacos,flores,fertilizante
 leite,manteiga,sobremesa,pão
 salsicha,refrigerante,goma de mascar
-frutas,queijos especiais,água
+frutas,queijo,água
 cerveja
 vegetais,cerveja
 bebidas,refrigerante
@@ -1962,7 +1962,7 @@ sorvete,açúcar,guardanapos,pratos
 sorvete,produtos de rolo,produtos alimentícios instantâneos,café,velas
 manteiga,creme de leite,pão,massa folhada,vegetais,suco,pão
 salsicha
-presunto,frutas,queijos especiais,pão,higiene,jornais
+presunto,frutas,queijo,pão,higiene,jornais
 frutas,vegetais,leite,manteiga,queijo,ovos,vinagre,suco,amaciante,guardanapos
 vinho
 manteiga,margarina
@@ -2701,7 +2701,7 @@ presunto,carne de porco,vegetais,leite,vegetais,pão,rum
 chocolate
 cerveja,jornais
 frango,frutas,vegetais,leite,nata,pão,massa folhada,farinha,chocolate
-queijos especiais,higiene,jornais,sacolas
+queijo,higiene,jornais,sacolas
 salsicha,frutas,vegetais,leite,iogurte,creme de leite,vegetais,pão,pão,macarrão,vinagre,refrigerante,salgadinho,detergente
 frutas,cerveja
 cerveja
