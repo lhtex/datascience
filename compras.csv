@@ -157,7 +157,7 @@ café,sacolas
 Pipoca
 leite,pão,açúcar,água,refrigerante
 frutas,vegetais,frutas,vegetais,leite,salgadinhos
-carne bovina,ervas,farinha,filme plástico,sacos,solo para flores,fertilizante
+carne bovina,ervas,farinha,filme plástico,sacos,flores,fertilizante
 leite,manteiga,sobremesa,pão
 salsicha,refrigerante,goma de mascar
 frutas,queijos especiais,água
@@ -984,7 +984,7 @@ salsicha,cebola,manteiga,queijo,pão,café,cerveja
 frutas,vegetais,sobremesa,iogurte,ovos,sacolas
 salsicha,leite,café,detergente
 leite,jornais
-ovos,higiene,fotos,filme,solo para flores,fertilizante
+ovos,higiene,fotos,filme,flores,fertilizante
 frutas,vegetais,sobremesa,maionese,óleo,refrigerante,waffles,chocolate,flores,sacolas
 frango,vegetais,creme de leite,vegetais,água,pão
 carne de porco,leite,coalhada,iogurte,creme de leite,queijo,ovos,pão,açúcar,fermento em pó,café,bebidas de cacau,salgadinhos,waffles,doces,guardanapos
@@ -3022,7 +3022,7 @@ leite
 vegetais,leite,produtos de rolo
 frutas,vegetais,sorvete,pão,pastelaria,farinha,vegetais,café,refrigerante,bebidas diversas,suco
 manteiga,coalhada,sobremesa,queijo,cerveja,doces,sacolas
-solo para flores,fertilizante
+flores,fertilizante
 massas,refrigerante,salgadinhos,bolo
 vegetais,sobremesa,doces,limpador abrasivo,pratos,filme plástico,sacos,velas
 vegetais,coalhada,iogurte,leite,pão,água,jornais,sacolas
@@ -3158,7 +3158,7 @@ carne bovina,hambúrguer,frutas,vegetais,leite,leite,iogurte,sorvete,pão,bolo,s
 iogurte,leite condensado,cuidados com animais de estimação,produtos de limpeza,sacolas
 frutas,leite,margarina,açúcar
 frango,vegetais,pão,margarina,água
-solo para flores,fertilizante
+flores,fertilizante
 vegetais,leite,waffles
 vegetais,ovos,pastelaria
 Margarina
@@ -3326,7 +3326,7 @@ bebidas,chocolate
 pão,água,refrigerante,cerveja
 sorvete
 jornais
-queijo,pão,detergente,limpador de louça,solo para flores,fertilizante
+queijo,pão,detergente,limpador de louça,flores,fertilizante
 frango,frutas,vegetais,leite,creme de leite,vegetais,café
 frutas,vegetais,pão,pão,cerveja,plantas em vasos
 leite,vegetais,água,suco,doces
@@ -4319,7 +4319,7 @@ leite,bebidas de cacau
 vegetais,pão,lâmpadas
 carne de porco,vegetais,óleo
 carne de porco,leite,leite,jornais
-jornais,solo para flores,fertilizante
+jornais,flores,fertilizante
 pão
 carne bovina,vegetais,leite,margarina,suco,jornais
 salsicha,presunto,leite,pão,suco,vinho,chocolate,chocolate,doces,produtos de limpeza,sacolas
@@ -4401,7 +4401,7 @@ carne bovina,hambúrguer,frutas,vegetais,leite,leite,iogurte,creme de leite,maca
 leite,pão
 carne de porco,margarina,pratos
 frutas,ervas,arroz,sacolas
-vegetais,vinho,jornais,solo para flores,fertilizante
+vegetais,vinho,jornais,flores,fertilizante
 frutas,vegetais,iogurte,creme de leite,pão,margarina,café,refrigerante,jornais
 salsicha,frango,leite,queijo,vegetais,pão,arroz,margarina,açúcar,frutas,vegetais,higiene
 salsicha,pão,pratos,sacolas
@@ -5160,7 +5160,7 @@ leite,suco,goma de mascar,sacolas
 frango,frutas,ovos,vinho
 cerveja
 cebola,leite
-vegetais,sobremesa,pão,comida de cachorro,solo para flores,fertilizante
+vegetais,sobremesa,pão,comida de cachorro,flores,fertilizante
 salsicha,frutas,vegetais,leite,manteiga,refeições congeladas,suco
 vegetais,leite
 vinho
@@ -5262,7 +5262,7 @@ pastelaria,margarina,café
 salsicha,leite,iogurte
 cebola,refeições congeladas
 frutas,vegetais,leite,ovos,plantas em vasos
-solo para flores,fertilizante
+flores,fertilizante
 sorvete
 refrigerante
 pastelaria,refrigerante
@@ -5974,7 +5974,7 @@ pão,geleia,suco
 nata
 vegetais,fermento em pó,guardanapos
 carne de porco,frutas,leite,pão,chocolate,jornais
-solo para flores,fertilizante
+flores,fertilizante
 leite,água
 uvas,vegetais,leite,coalhada,creme de leite,geleia
 pão,carne de porco,frutas,vegetais,iogurte,bebidas diversas
@@ -6075,7 +6075,7 @@ suco
 carne de porco,frutas,cebola
 sobremesa,queijo,pastelaria,refrigerante,produtos sazonais
 farinha,açúcar
-frutas,leite,solo para flores,fertilizante
+frutas,leite,flores,fertilizante
 frutas,iogurte
 iogurte,margarina
 sorvete
@@ -6290,7 +6290,7 @@ leite,jornais
 salsicha,carne bovina,frutas,vegetais,leite,iogurte,pão,água,refrigerante,cerveja,jornais
 cerveja
 pão
-água,refrigerante,bebidas diversas,solo para flores,fertilizante
+água,refrigerante,bebidas diversas,flores,fertilizante
 refrigerante
 frango,frutas,vegetais,manteiga,ovos,pão,margarina,doces,cuidados dentários,sacolas
 bebidas,pão
@@ -6305,7 +6305,7 @@ pão,pão,refrigerante
 carne de porco,frutas,açúcar,doces,pratos
 frango,frutas,vegetais,refeições congeladas,bebidas diversas,jornais,flores
 frutas,leite,leite,pão,sacolas
-solo para flores,fertilizante
+flores,fertilizante
 carne bovina,manteiga,massa,refrigerante
 salsicha,hambúrguer,frutas,leite,queijo,pão,óleo,produtos alimentícios instantâneos,refrigerante
 frutas,vegetais,leite,ovos,refrigerante
@@ -7256,7 +7256,7 @@ coalhada
 leite,mostarda
 leite,pão
 cebola,vegetais,leite,iogurte,vegetais,água,suco,cerveja,salgadinhos,pipoca
-leite,pão,vinagre,fermento em pó,café,água,guardanapos,pratos,solo para flores,fertilizante
+leite,pão,vinagre,fermento em pó,café,água,guardanapos,pratos,flores,fertilizante
 vegetais,cebola,leite,manteiga,óleo,sopas,cerveja
 frutas,vegetais,pão,suco,chocolate
 carne bovina,frutas,vegetais,leite,queijo,pão,pastelaria,refrigerante
@@ -8383,7 +8383,7 @@ frutas,cebola,vegetais,leite,vegetais,refrigerante,suco,chocolate,jornais
 geleia,bebidas de cacau,refrigerante
 frutas,higiene
 salsicha,carne bovina,leite,bebidas,queijo,suco,cerveja,vinho,chocolate,guardanapos
-solo para flores,fertilizante
+flores,fertilizante
 leite,peixe,comida de gato,cuidados com animais de estimação
 carne de porco,vegetais,leite,pão,pastelaria,refrigerante,bebidas diversas
 salsicha,água,bebidas diversas,cerveja,vinho
@@ -8544,7 +8544,7 @@ carne de porco,frutas,vegetais,iogurte
 sobremesa,cerveja
 leite,água
 frango
-solo para flores,fertilizante
+flores,fertilizante
 iogurte,bolo
 frango,carne bovina,vegetais,leite,leite,vegetais,macarrão,vinagre,fermento em pó,detergente,limpador,produtos de limpeza
 leite,pão
