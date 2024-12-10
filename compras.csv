@@ -1254,7 +1254,7 @@ salsicha,frutas,leite,iogurte,queijo,pastelaria,margarina,produtos de comida ins
  congelada,água,refrigerante
 salsicha,leite,creme de leite,requeijão,ovos,margarina,fermento em pó,comida de gato,água,cerveja,doces,guardanapos
 salsicha,vegetais,leite,manteiga,creme de leite,queijo,açúcar,fermento em pó,geleia,café,água,refrigerante,suco,salgadinho,pão,doces,guardanapos
-frutas,sobremesas,doces,suco
+frutas,sobremesa,doces,suco
 cerveja
 cerveja
 pão,pães,pão
@@ -2831,7 +2831,7 @@ salsicha,pão,refrigerante,chocolate
 leite,peixe,jornais
 salsicha,bebidas,ovos,pastelaria,salgadinhos
 cerveja
-frutas,refeições congeladas,sobremesas congeladas,pão,bebidas diversas
+frutas,refeições congeladas,sobremesa,pão,bebidas diversas
 salsicha,cerveja,licor,vinho
 leite,jornais
 frutas,leite,pastelaria,waffles,bolo,chocolate,sacolas
@@ -3063,7 +3063,7 @@ frango,frutas,creme de leite,açúcar,fermento em pó,café,refrigerante
 salsicha,queijo
 leite,creme de leite,pão,fermento em pó,vegetais,água,refrigerante,guardanapos
 peixe,conhaque
-frutas,leite,refeições congeladas,sobremesas congeladas,pão,refrigerante,sacolas
+frutas,leite,refeições congeladas,sobremesa,pão,refrigerante,sacolas
 frango,carne de porco,vegetais,leite,manteiga,coalhada,margarina,vegetais,waffles,chocolate,higiene
 cebola,iogurte,sorvete
 carne bovina,vegetais,ervas,frutas,vegetais,creme de leite,queijo,vinagre,óleo,margarina,sopas,vegetais,carne bovina,peixe,suco,velas
@@ -6413,7 +6413,7 @@ fotos,filme
 refrigerante,cerveja
 cerveja,cerveja
 refeições congeladas,refrigerante
-frutas,sobremesas,produtos sazonais
+frutas,sobremesa,produtos sazonais
 ovos,pão,suco,waffles
 frutas,iogurte,água,refrigerante,chocolate
 produtos sazonais
@@ -8246,7 +8246,7 @@ comida de cachorro,detergente,higiene,guardanapos,jornais,plantas em vasos
 salsicha,hambúrguer,margarina
 salsicha,refrigerante
 frutas,leite,queijo,pão,chocolate,chocolate
-frutas,leite,refeições congeladas,sobremesas congeladas,pão,refrigerante,cerveja,bolo,detergente,plantas em vasos
+frutas,leite,refeições congeladas,sobremesa,pão,refrigerante,cerveja,bolo,detergente,plantas em vasos
 carne bovina,frutas,coalhada,leite
 leite,manteiga
 frutas,pão
